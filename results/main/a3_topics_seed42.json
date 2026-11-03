@@ -1,0 +1,332 @@
+[
+  {
+    "topic": "singulair",
+    "source": "dataset",
+    "queries": [
+      "can singulair cause migraines",
+      "What are the main arguments about singulair?",
+      "Is singulair a good idea?",
+      "Should society support singulair?",
+      "What are the benefits and harms of singulair?"
+    ]
+  },
+  {
+    "topic": "stress",
+    "source": "dataset",
+    "queries": [
+      "does stress cause face numbness",
+      "What are the main arguments about stress?",
+      "Is stress a good idea?",
+      "Should society support stress?",
+      "What are the benefits and harms of stress?"
+    ]
+  },
+  {
+    "topic": "it",
+    "source": "dataset",
+    "queries": [
+      "is it necessary for the law to be formal and regulated by the state",
+      "What are the main arguments about it?",
+      "Is it a good idea?",
+      "Should society support it?",
+      "What are the benefits and harms of it?"
+    ]
+  },
+  {
+    "topic": "nuclear energy",
+    "source": "dataset",
+    "queries": [
+      "why is nuclear energy bad",
+      "What are the main arguments about nuclear energy?",
+      "Is nuclear energy a good idea?",
+      "Should society support nuclear energy?",
+      "What are the benefits and harms of nuclear energy?"
+    ]
+  },
+  {
+    "topic": "first amendment",
+    "source": "dataset",
+    "queries": [
+      "why is the first amendment controversial",
+      "What are the main arguments about first amendment?",
+      "Is first amendment a good idea?",
+      "Should society support first amendment?",
+      "What are the benefits and harms of first amendment?"
+    ]
+  },
+  {
+    "topic": "privacy",
+    "source": "dataset",
+    "queries": [
+      "why is privacy important",
+      "What are the main arguments about privacy?",
+      "Is privacy a good idea?",
+      "Should society support privacy?",
+      "What are the benefits and harms of privacy?"
+    ]
+  },
+  {
+    "topic": "epiglottis",
+    "source": "dataset",
+    "queries": [
+      "why is epiglottis important",
+      "What are the main arguments about epiglottis?",
+      "Is epiglottis a good idea?",
+      "Should society support epiglottis?",
+      "What are the benefits and harms of epiglottis?"
+    ]
+  },
+  {
+    "topic": "diabetes",
+    "source": "dataset",
+    "queries": [
+      "does diabetes cause kidney disease",
+      "What are the main arguments about diabetes?",
+      "Is diabetes a good idea?",
+      "Should society support diabetes?",
+      "What are the benefits and harms of diabetes?"
+    ]
+  },
+  {
+    "topic": "vitamin d",
+    "source": "dataset",
+    "queries": [
+      "can vitamin d cause swelling and pain in the legs",
+      "What are the main arguments about vitamin d?",
+      "Is vitamin d a good idea?",
+      "Should society support vitamin d?",
+      "What are the benefits and harms of vitamin d?"
+    ]
+  },
+  {
+    "topic": "almonds",
+    "source": "dataset",
+    "queries": [
+      "why are almonds important",
+      "What are the main arguments about almonds?",
+      "Is almonds a good idea?",
+      "Should society support almonds?",
+      "What are the benefits and harms of almonds?"
+    ]
+  },
+  {
+    "topic": "drugs",
+    "source": "dataset",
+    "queries": [
+      "are drugs necessary",
+      "What are the main arguments about drugs?",
+      "Is drugs a good idea?",
+      "Should society support drugs?",
+      "What are the benefits and harms of drugs?"
+    ]
+  },
+  {
+    "topic": "diuretics",
+    "source": "dataset",
+    "queries": [
+      "can diuretics cause decreased urinary output",
+      "What are the main arguments about diuretics?",
+      "Is diuretics a good idea?",
+      "Should society support diuretics?",
+      "What are the benefits and harms of diuretics?"
+    ]
+  },
+  {
+    "topic": "family",
+    "source": "dataset",
+    "queries": [
+      "benefits of family",
+      "What are the main arguments about family?",
+      "Is family a good idea?",
+      "Should society support family?",
+      "What are the benefits and harms of family?"
+    ]
+  },
+  {
+    "topic": "popcorn",
+    "source": "dataset",
+    "queries": [
+      "can popcorn cause diarrhea",
+      "What are the main arguments about popcorn?",
+      "Is popcorn a good idea?",
+      "Should society support popcorn?",
+      "What are the benefits and harms of popcorn?"
+    ]
+  },
+  {
+    "topic": "tramadol",
+    "source": "dataset",
+    "queries": [
+      "can tramadol cause vertigo",
+      "What are the main arguments about tramadol?",
+      "Is tramadol a good idea?",
+      "Should society support tramadol?",
+      "What are the benefits and harms of tramadol?"
+    ]
+  },
+  {
+    "topic": "codeine",
+    "source": "dataset",
+    "queries": [
+      "negative effects of codeine",
+      "What are the main arguments about codeine?",
+      "Is codeine a good idea?",
+      "Should society support codeine?",
+      "What are the benefits and harms of codeine?"
+    ]
+  },
+  {
+    "topic": "calcitonin",
+    "source": "dataset",
+    "queries": [
+      "can calcitonin cause cancer",
+      "What are the main arguments about calcitonin?",
+      "Is calcitonin a good idea?",
+      "Should society support calcitonin?",
+      "What are the benefits and harms of calcitonin?"
+    ]
+  },
+  {
+    "topic": "bradycardia",
+    "source": "dataset",
+    "queries": [
+      "can bradycardia cause death",
+      "What are the main arguments about bradycardia?",
+      "Is bradycardia a good idea?",
+      "Should society support bradycardia?",
+      "What are the benefits and harms of bradycardia?"
+    ]
+  },
+  {
+    "topic": "marijuana",
+    "source": "dataset",
+    "queries": [
+      "can marijuana cause diarrhea?",
+      "What are the main arguments about marijuana?",
+      "Is marijuana a good idea?",
+      "Should society support marijuana?",
+      "What are the benefits and harms of marijuana?"
+    ]
+  },
+  {
+    "topic": "insomnia",
+    "source": "dataset",
+    "queries": [
+      "can insomnia cause bad dreams",
+      "What are the main arguments about insomnia?",
+      "Is insomnia a good idea?",
+      "Should society support insomnia?",
+      "What are the benefits and harms of insomnia?"
+    ]
+  },
+  {
+    "topic": "lithium",
+    "source": "dataset",
+    "queries": [
+      "can lithium cause stevens johnson syndrome",
+      "What are the main arguments about lithium?",
+      "Is lithium a good idea?",
+      "Should society support lithium?",
+      "What are the benefits and harms of lithium?"
+    ]
+  },
+  {
+    "topic": "cashews",
+    "source": "dataset",
+    "queries": [
+      "are cashews good for your prostate",
+      "What are the main arguments about cashews?",
+      "Is cashews a good idea?",
+      "Should society support cashews?",
+      "What are the benefits and harms of cashews?"
+    ]
+  },
+  {
+    "topic": "documents",
+    "source": "dataset",
+    "queries": [
+      "why are documents important",
+      "What are the main arguments about documents?",
+      "Is documents a good idea?",
+      "Should society support documents?",
+      "What are the benefits and harms of documents?"
+    ]
+  },
+  {
+    "topic": "ions",
+    "source": "dataset",
+    "queries": [
+      "why are ions important for neurotransmission?",
+      "What are the main arguments about ions?",
+      "Is ions a good idea?",
+      "Should society support ions?",
+      "What are the benefits and harms of ions?"
+    ]
+  },
+  {
+    "topic": "chemotherapy",
+    "source": "dataset",
+    "queries": [
+      "does chemotherapy cause neuropathy",
+      "What are the main arguments about chemotherapy?",
+      "Is chemotherapy a good idea?",
+      "Should society support chemotherapy?",
+      "What are the benefits and harms of chemotherapy?"
+    ]
+  },
+  {
+    "topic": "coconut oil",
+    "source": "dataset",
+    "queries": [
+      "can coconut oil cause heartburn",
+      "What are the main arguments about coconut oil?",
+      "Is coconut oil a good idea?",
+      "Should society support coconut oil?",
+      "What are the benefits and harms of coconut oil?"
+    ]
+  },
+  {
+    "topic": "kidney disease",
+    "source": "dataset",
+    "queries": [
+      "does kidney disease cause itching",
+      "What are the main arguments about kidney disease?",
+      "Is kidney disease a good idea?",
+      "Should society support kidney disease?",
+      "What are the benefits and harms of kidney disease?"
+    ]
+  },
+  {
+    "topic": "locks",
+    "source": "dataset",
+    "queries": [
+      "why are locks important",
+      "What are the main arguments about locks?",
+      "Is locks a good idea?",
+      "Should society support locks?",
+      "What are the benefits and harms of locks?"
+    ]
+  },
+  {
+    "topic": "green tea",
+    "source": "dataset",
+    "queries": [
+      "can green tea cause high blood pressure",
+      "What are the main arguments about green tea?",
+      "Is green tea a good idea?",
+      "Should society support green tea?",
+      "What are the benefits and harms of green tea?"
+    ]
+  },
+  {
+    "topic": "school uniforms",
+    "source": "builtin",
+    "queries": [
+      "What are the main arguments about school uniforms?",
+      "Is school uniforms a good idea?",
+      "Should society support school uniforms?",
+      "What are the benefits and harms of school uniforms?",
+      "What does the evidence say about school uniforms?"
+    ]
+  }
+]

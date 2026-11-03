@@ -1,0 +1,147 @@
+[
+  {
+    "topic": "it",
+    "source_query": "is it necessary for the law to be formal and regulated by the state",
+    "corpus_mentions": 2807
+  },
+  {
+    "topic": "family",
+    "source_query": "benefits of family",
+    "corpus_mentions": 296
+  },
+  {
+    "topic": "drugs",
+    "source_query": "are drugs necessary",
+    "corpus_mentions": 30
+  },
+  {
+    "topic": "stress",
+    "source_query": "does stress cause face numbness",
+    "corpus_mentions": 28
+  },
+  {
+    "topic": "diabetes",
+    "source_query": "does diabetes cause kidney disease",
+    "corpus_mentions": 23
+  },
+  {
+    "topic": "documents",
+    "source_query": "why are documents important",
+    "corpus_mentions": 23
+  },
+  {
+    "topic": "ions",
+    "source_query": "why are ions important for neurotransmission?",
+    "corpus_mentions": 17
+  },
+  {
+    "topic": "privacy",
+    "source_query": "why is privacy important",
+    "corpus_mentions": 15
+  },
+  {
+    "topic": "first amendment",
+    "source_query": "why is the first amendment controversial",
+    "corpus_mentions": 12
+  },
+  {
+    "topic": "marijuana",
+    "source_query": "can marijuana cause diarrhea?",
+    "corpus_mentions": 12
+  },
+  {
+    "topic": "kidney disease",
+    "source_query": "does kidney disease cause itching",
+    "corpus_mentions": 8
+  },
+  {
+    "topic": "lithium",
+    "source_query": "can lithium cause stevens johnson syndrome",
+    "corpus_mentions": 6
+  },
+  {
+    "topic": "cashews",
+    "source_query": "are cashews good for your prostate",
+    "corpus_mentions": 4
+  },
+  {
+    "topic": "diuretics",
+    "source_query": "can diuretics cause decreased urinary output",
+    "corpus_mentions": 3
+  },
+  {
+    "topic": "locks",
+    "source_query": "why are locks important",
+    "corpus_mentions": 3
+  },
+  {
+    "topic": "insomnia",
+    "source_query": "can insomnia cause bad dreams",
+    "corpus_mentions": 3
+  },
+  {
+    "topic": "tramadol",
+    "source_query": "can tramadol cause vertigo",
+    "corpus_mentions": 3
+  },
+  {
+    "topic": "almonds",
+    "source_query": "why are almonds important",
+    "corpus_mentions": 3
+  },
+  {
+    "topic": "green tea",
+    "source_query": "can green tea cause high blood pressure",
+    "corpus_mentions": 3
+  },
+  {
+    "topic": "calcitonin",
+    "source_query": "can calcitonin cause cancer",
+    "corpus_mentions": 2
+  },
+  {
+    "topic": "singulair",
+    "source_query": "can singulair cause migraines",
+    "corpus_mentions": 2
+  },
+  {
+    "topic": "chemotherapy",
+    "source_query": "does chemotherapy cause neuropathy",
+    "corpus_mentions": 2
+  },
+  {
+    "topic": "coconut oil",
+    "source_query": "can coconut oil cause heartburn",
+    "corpus_mentions": 1
+  },
+  {
+    "topic": "nuclear energy",
+    "source_query": "why is nuclear energy bad",
+    "corpus_mentions": 1
+  },
+  {
+    "topic": "bradycardia",
+    "source_query": "can bradycardia cause death",
+    "corpus_mentions": 1
+  },
+  {
+    "topic": "epiglottis",
+    "source_query": "why is epiglottis important",
+    "corpus_mentions": 1
+  },
+  {
+    "topic": "popcorn",
+    "source_query": "can popcorn cause diarrhea",
+    "corpus_mentions": 1
+  },
+  {
+    "topic": "vitamin d",
+    "source_query": "can vitamin d cause swelling and pain in the legs",
+    "corpus_mentions": 1
+  },
+  {
+    "topic": "codeine",
+    "source_query": "negative effects of codeine",
+    "corpus_mentions": 1
+  }
+]

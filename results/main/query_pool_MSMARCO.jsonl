@@ -1,0 +1,470 @@
+{"query": "what is medication vimpat for", "gold": "Vimpat Injection is used for intravenous.", "qid": "MSMARCO-00000", "dataset": "MSMARCO"}
+{"query": "what kind of fossil is a petoskey stone", "gold": "Hexagonaria percarinata", "qid": "MSMARCO-00001", "dataset": "MSMARCO"}
+{"query": "where did francis of assisi lived", "gold": "Assisi", "qid": "MSMARCO-00002", "dataset": "MSMARCO"}
+{"query": "which three plants are nitrogen fixers", "gold": "Nitrogen Fixing Trees for Permaculture Flowers of the leguminous tree, Kowhai, the national flower of New Zealand.", "qid": "MSMARCO-00003", "dataset": "MSMARCO"}
+{"query": "do report cards come out the last day of school", "gold": "No", "qid": "MSMARCO-00004", "dataset": "MSMARCO"}
+{"query": "who is the wife of trump", "gold": "Melania Trump is the wife of Trump.", "qid": "MSMARCO-00005", "dataset": "MSMARCO"}
+{"query": "what is q link wireless", "gold": "It is company that is designed to enroll qualified customers for a free government cell phone through the Lifeline Assistance Program.", "qid": "MSMARCO-00006", "dataset": "MSMARCO"}
+{"query": "who was matthew perry", "gold": "Actor and screenwriter", "qid": "MSMARCO-00007", "dataset": "MSMARCO"}
+{"query": "how far is greece from paris", "gold": "1,306 miles", "qid": "MSMARCO-00008", "dataset": "MSMARCO"}
+{"query": "what music does celtic thunder play", "gold": "Solo and ensemble numbers.", "qid": "MSMARCO-00009", "dataset": "MSMARCO"}
+{"query": "what makes seizures happen", "gold": "When abnormal signals from the brain change the way the body functions.", "qid": "MSMARCO-00010", "dataset": "MSMARCO"}
+{"query": "where is the round goby from", "gold": "Black, Caspian, Marmara, and Azov Seas and their tributaries in Eurasia.", "qid": "MSMARCO-00011", "dataset": "MSMARCO"}
+{"query": "where is myocardium located", "gold": "Between the endocardium and the visceral layer of the serous membrane (epicardium) of the heart.", "qid": "MSMARCO-00012", "dataset": "MSMARCO"}
+{"query": "does kidney disease cause itching", "gold": "Yes", "qid": "MSMARCO-00013", "dataset": "MSMARCO"}
+{"query": "what is natasha obama called sasha", "gold": "Natasha Obama called Sasha is the daughter of Barack and Michelle Obama.", "qid": "MSMARCO-00014", "dataset": "MSMARCO"}
+{"query": "what year acura mdx had transmission issues", "gold": "2005", "qid": "MSMARCO-00015", "dataset": "MSMARCO"}
+{"query": "why was the world bank created", "gold": "As a result of many European and Asian countries needing financing to fund reconstruction efforts.", "qid": "MSMARCO-00016", "dataset": "MSMARCO"}
+{"query": "why do we celebrate presidents day", "gold": "Because of Washington's birthday.", "qid": "MSMARCO-00017", "dataset": "MSMARCO"}
+{"query": "adiabatic process definition", "gold": "An adiabatic process is a thermodynamic process during which no energy is transferred as heat across the boundaries of the system.", "qid": "MSMARCO-00018", "dataset": "MSMARCO"}
+{"query": "what is tea powder", "gold": "Tea powder produced by stone-milling a shade-grown green tea called tencha into a fine powder.", "qid": "MSMARCO-00019", "dataset": "MSMARCO"}
+{"query": "what's the weather like in antarctica?", "gold": "Extremely cold with very little precipitation with the coldest ever temperature -128.56 degrees Fahrenheit.", "qid": "MSMARCO-00020", "dataset": "MSMARCO"}
+{"query": "where are your lymph nodes near the liver", "gold": "Lymph nodes finding especially with tumors in the tail and the body of the pancreas.", "qid": "MSMARCO-00021", "dataset": "MSMARCO"}
+{"query": "what is the active part of the molecule in famotidine", "gold": "The active ingredient in PEPCID\u00ae (famotidine) is a histamine H2-receptor antagonist.", "qid": "MSMARCO-00022", "dataset": "MSMARCO"}
+{"query": "how do youtubers earn money", "gold": "Users will probably watch at least 30 seconds of your video. As long as they aren't using AdBlock, this will make you money. YouTube tallies up the revenue they make from ads, and then splits that profit with you.", "qid": "MSMARCO-00023", "dataset": "MSMARCO"}
+{"query": "how to make scrambled eggs heston", "gold": "Using a fork, mix the eggs, milk, cream and butter together in a bowl. Season with salt and stir to combine. Place the bowl over a pan of simmering water and allow to cook really slowly using a spatula to continuously stir the mixture.Cook until the eggs begin to scramble a\u20ac\u201c \u00e2 this should take approximately-15 20.", "qid": "MSMARCO-00024", "dataset": "MSMARCO"}
+{"query": "where to donate medical equipment", "gold": "To the Medical Equipment Recycling Program.", "qid": "MSMARCO-00025", "dataset": "MSMARCO"}
+{"query": "what's the normal temperature for pregnant woman", "gold": "0.5 to 1.5 degrees", "qid": "MSMARCO-00026", "dataset": "MSMARCO"}
+{"query": "what should i wear to graduation", "gold": "Uniform caps and gowns,robe", "qid": "MSMARCO-00027", "dataset": "MSMARCO"}
+{"query": "clinical symptoms of seb", "gold": "The clinical features of SEB include fever, respiratory complaints cough, dyspnea, and retrosterna discomfort or chest pain, and gastrointestinal symptoms; severe intoxication results in pulmonary edema, adult respiratory distress syndrome, shock, and death.", "qid": "MSMARCO-00028", "dataset": "MSMARCO"}
+{"query": "why is the mona lisa the most famous painting", "gold": "The smile of the Mona Lisa.", "qid": "MSMARCO-00029", "dataset": "MSMARCO"}
+{"query": "where stress fractures occur in the foot", "gold": "In the weight-bearing bones of the legs.", "qid": "MSMARCO-00030", "dataset": "MSMARCO"}
+{"query": "what is there gonna be a tornado", "gold": "It has been issued for parts of New York and New Jersey until 5 p.m. Monday.", "qid": "MSMARCO-00031", "dataset": "MSMARCO"}
+{"query": "what was the american revolution", "gold": "The American Revolution (1775-83) is also known as the American Revolutionary War and the U.S. War of Independence.The conflict arose from growing tensions between residents of Great Britain\u2019s 13 North American colonies and the colonial government, which represented the British crown.", "qid": "MSMARCO-00032", "dataset": "MSMARCO"}
+{"query": "chattel mortgage definition", "gold": "A term used to describe a loan arrangement in which an item of movable personal property is used as security for the loan.", "qid": "MSMARCO-00033", "dataset": "MSMARCO"}
+{"query": "how long does it take to get term life insurance", "gold": "Term life insurance provides death benefit protection for a period of one or more years. The death benefit of the policy is paid only if the insured dies during that period.", "qid": "MSMARCO-00034", "dataset": "MSMARCO"}
+{"query": "when did the crimean sea happen", "gold": "October 4, 1853", "qid": "MSMARCO-00035", "dataset": "MSMARCO"}
+{"query": "define apache", "gold": "A member of any of a group of American Indian peoples of the U.S. Southwest and adjacent areas of the Great Plains.", "qid": "MSMARCO-00036", "dataset": "MSMARCO"}
+{"query": "what is the key ingredient in sushi", "gold": "Rice", "qid": "MSMARCO-00037", "dataset": "MSMARCO"}
+{"query": "where is bald head island in the carolinas united states?", "gold": "In Brunswick County, North Carolina, United States.", "qid": "MSMARCO-00038", "dataset": "MSMARCO"}
+{"query": "who was diego bermudez", "gold": "Diego Bermudez was a Spanish flamenco cantaor.", "qid": "MSMARCO-00039", "dataset": "MSMARCO"}
+{"query": "who was involved in the iran nuclear deal", "gold": "China, France, Russia, the UK, the US and Germany.", "qid": "MSMARCO-00040", "dataset": "MSMARCO"}
+{"query": "where is disk cleanup", "gold": "Start; pointing to All Programs, Accessories, and System Tools; Disk Cleanup.", "qid": "MSMARCO-00041", "dataset": "MSMARCO"}
+{"query": "definition of spirit,soul and body", "gold": "Spirit refers to the immaterial part of humanity that connects with God.Soul can refer to the whole person, whether alive or in the afterlife and The body is known as a cover which encases both the soul and spirit.", "qid": "MSMARCO-00042", "dataset": "MSMARCO"}
+{"query": "where is archaebacteria found", "gold": "Methanogens are found in sewage treatment plants, bogs, and the intestinal tracts of ruminants. Halophiles are found in in high salt concentrations such as those found in salt lakes or pools of sea water. Thermophiles are found near hydrothermal vents and hot springs.", "qid": "MSMARCO-00043", "dataset": "MSMARCO"}
+{"query": "when was slavery abolished in america", "gold": "1865", "qid": "MSMARCO-00044", "dataset": "MSMARCO"}
+{"query": "do enzymes cross the blood brain barrier", "gold": "Yes", "qid": "MSMARCO-00045", "dataset": "MSMARCO"}
+{"query": "what is tetralogy of fellow", "gold": "Tetralogy of Fallot (TOF) is a congenital heart defect which is classically understood to involve four anatomical abnormalities of the heart (although only three of them are always present).", "qid": "MSMARCO-00046", "dataset": "MSMARCO"}
+{"query": "benefit of lower taxes", "gold": "It would reduce the current income tax. system\u201fs penalty on saving and investment, reduce the tax barriers to investment in the. corporate sector, reduce the incentive for firms to finance investment with debt rather than. Increased competitiveness of the United States in the global economy. Increased capital investment in the United States. Increased employment and living standards for Americans.", "qid": "MSMARCO-00047", "dataset": "MSMARCO"}
+{"query": "what is the tax on marijuana in colorado", "gold": "$70 million", "qid": "MSMARCO-00048", "dataset": "MSMARCO"}
+{"query": "define function of cytoplasm in bacteria", "gold": "Cell growth, metabolism, and replication are carried out.", "qid": "MSMARCO-00049", "dataset": "MSMARCO"}
+{"query": "definition of lesen", "gold": "Lessen means to shrink in size.", "qid": "MSMARCO-00050", "dataset": "MSMARCO"}
+{"query": "what process creates trans fats", "gold": "Manufacturing process", "qid": "MSMARCO-00051", "dataset": "MSMARCO"}
+{"query": "where is pierre part la", "gold": "In Assumption Parish in south central Louisiana.", "qid": "MSMARCO-00052", "dataset": "MSMARCO"}
+{"query": "do you need a passport to travel to guernsey from the uk on p&o cruise ships", "gold": "Yes", "qid": "MSMARCO-00053", "dataset": "MSMARCO"}
+{"query": "where is hohenzollern castle", "gold": "In Germany.", "qid": "MSMARCO-00054", "dataset": "MSMARCO"}
+{"query": "who sings wasted for tiesto", "gold": "Matthew Koma", "qid": "MSMARCO-00055", "dataset": "MSMARCO"}
+{"query": "who is the voice of meh", "gold": "T.J. Miller of \u201cSilicon Valley\u201d is the voice of meh.", "qid": "MSMARCO-00056", "dataset": "MSMARCO"}
+{"query": "what mountains run through virginia", "gold": "Blue Ridge Mountains, Stony Man, Hawksbill.", "qid": "MSMARCO-00057", "dataset": "MSMARCO"}
+{"query": "how many students does odu have", "gold": "The undergraduate enrollment at Old Dominion is 18,253, with an additional 5,500 graduate students enrolled there.", "qid": "MSMARCO-00058", "dataset": "MSMARCO"}
+{"query": "what river did the comanches hunt in", "gold": "Leon River", "qid": "MSMARCO-00059", "dataset": "MSMARCO"}
+{"query": "where is bollington", "gold": "In Cheshire, England, to the east of Prestbury", "qid": "MSMARCO-00060", "dataset": "MSMARCO"}
+{"query": "does a large redundancy payment affect child tax credits", "gold": "Yes", "qid": "MSMARCO-00061", "dataset": "MSMARCO"}
+{"query": "where is the sound port", "gold": "Sound port on a computer has sound output and input connectors.", "qid": "MSMARCO-00062", "dataset": "MSMARCO"}
+{"query": "what is svn medical", "gold": "SVN is small volume nebulizer, a pneumatically powered device used to aerosolize medications for delivery to patients.", "qid": "MSMARCO-00063", "dataset": "MSMARCO"}
+{"query": "when did the fifth french republic start", "gold": "4 October 1958", "qid": "MSMARCO-00064", "dataset": "MSMARCO"}
+{"query": "connotative meaning example", "gold": "Connotation refers to a meaning that is implied by a word apart from the thing which it describes explicitly. For example, the words childish, childlike and youthful have the same denotative but different connotative meanings.", "qid": "MSMARCO-00065", "dataset": "MSMARCO"}
+{"query": "what is sigmoid diverticulosis", "gold": "Sigmoid diverticulosis is a condition in which small pouches called diverticula form on the wall of the sigmoid colon, which is the part of the large intestine that connects to the rectum.", "qid": "MSMARCO-00066", "dataset": "MSMARCO"}
+{"query": "how does colestipol work", "gold": "Colestipol is an oral cholesterol-lowering drug that is not absorbed from the intestine into the body. Rather, it works by binding to bile acids in the intestine and promoting the elimination of bile acids in the stool.", "qid": "MSMARCO-00067", "dataset": "MSMARCO"}
+{"query": "what is the vesica piscis", "gold": "The vesica piscis is a shape that is the intersection of two circles with the same radius, intersecting in such a way that the center of each circle lies on the perimeter of the other.", "qid": "MSMARCO-00068", "dataset": "MSMARCO"}
+{"query": "how much does restaurant depot pay", "gold": "$7.44 per hour for Receptionist to $16.79 per hour for Supervisor.", "qid": "MSMARCO-00069", "dataset": "MSMARCO"}
+{"query": "writ of certiorari in other words", "gold": "In other words, writ of certiorari is called denial of cert.", "qid": "MSMARCO-00070", "dataset": "MSMARCO"}
+{"query": "what is the biggest plane called", "gold": "An-225 Mriya is the world's largest flying airplane.", "qid": "MSMARCO-00071", "dataset": "MSMARCO"}
+{"query": "cinco de mayo means what", "gold": "Revelers reenact the Battle of Puebla in Mexico City.", "qid": "MSMARCO-00072", "dataset": "MSMARCO"}
+{"query": "where does pampas grass grow", "gold": "It is native to South America, grows in large clumps.", "qid": "MSMARCO-00073", "dataset": "MSMARCO"}
+{"query": "what kind of a disease is pancreatitis", "gold": "Inflammation of the pancreas.", "qid": "MSMARCO-00074", "dataset": "MSMARCO"}
+{"query": "what large island is part of australia", "gold": "Mainland Tasmania", "qid": "MSMARCO-00075", "dataset": "MSMARCO"}
+{"query": "what is title bar on a computer", "gold": "A graphical control element and part of the window decoration. provided by some window managers.", "qid": "MSMARCO-00076", "dataset": "MSMARCO"}
+{"query": "who is the father of china", "gold": "Sun Yat-sen is revered as the founding father of the Republic of China.", "qid": "MSMARCO-00077", "dataset": "MSMARCO"}
+{"query": "how long does it take to probate a will in tennessee", "gold": "Probate in Tennessee commonly takes six months to a year.", "qid": "MSMARCO-00078", "dataset": "MSMARCO"}
+{"query": "where is santa clara located", "gold": "Santa Clara County, in the U.S. state of California.", "qid": "MSMARCO-00079", "dataset": "MSMARCO"}
+{"query": "who is lady amelia", "gold": "Lady Amelia Windsor is a member of the following lists: English children, House of Windsor and Daughters of British earls.", "qid": "MSMARCO-00080", "dataset": "MSMARCO"}
+{"query": "who was the first female baseball player", "gold": "Melissa Mayeux in the French U-18 junior national team.", "qid": "MSMARCO-00081", "dataset": "MSMARCO"}
+{"query": "definition of macerated skin", "gold": "It is the softening and breakdown of the skin due to prolonged contact with moisture.", "qid": "MSMARCO-00082", "dataset": "MSMARCO"}
+{"query": "what is the function of the smooth endoplasmic reticulum in an animal cell", "gold": "Functions in lipid metabolism, carbohydrate metabolism, and detoxification of drugs.", "qid": "MSMARCO-00083", "dataset": "MSMARCO"}
+{"query": "who was the first african american billionaire", "gold": "Robert Johnson", "qid": "MSMARCO-00084", "dataset": "MSMARCO"}
+{"query": "what is kate w?", "gold": "An English actress and singer.", "qid": "MSMARCO-00085", "dataset": "MSMARCO"}
+{"query": "average cost for well drilling and irrigation", "gold": "Drilling: $35.00 per foot and $35.00 for irrigation system.", "qid": "MSMARCO-00086", "dataset": "MSMARCO"}
+{"query": "which king was mad", "gold": "George III", "qid": "MSMARCO-00087", "dataset": "MSMARCO"}
+{"query": "where is sugarloaf pennsylvania", "gold": "In Luzerne County, United States.", "qid": "MSMARCO-00088", "dataset": "MSMARCO"}
+{"query": "what is the meaning of money back guarantee policy", "gold": "It is essentially a simple guarantee that, if a buyer is not satisfied with a product or service, a refund will be made.", "qid": "MSMARCO-00089", "dataset": "MSMARCO"}
+{"query": "who created the first tank?", "gold": "Lancelot de mole", "qid": "MSMARCO-00090", "dataset": "MSMARCO"}
+{"query": "who said it ain't bragging if it's true", "gold": "Dizzy Dean said it ain't bragging if it's true.", "qid": "MSMARCO-00091", "dataset": "MSMARCO"}
+{"query": "where is salzburg", "gold": "Salzburg is the fourth-largest city in Austria and the capital city of the federal state of Salzburg.", "qid": "MSMARCO-00092", "dataset": "MSMARCO"}
+{"query": "what is the force attraction that objects have due to their mass?", "gold": "Gravity", "qid": "MSMARCO-00093", "dataset": "MSMARCO"}
+{"query": "how long does it take to flush nicotine out of your system", "gold": "Only occasionally or have a limited nicotine intake, it should be cleared out in 3 to 4 days. A regular smoker, it may take 1-2 weeks; A long time heavy smoker, it may take more than 20 days for a clean urinalysis test.", "qid": "MSMARCO-00094", "dataset": "MSMARCO"}
+{"query": "what is melodic and harmonic", "gold": "A harmonic interval results if the notes are played at the same time, whereas a melodic interval occurs when the notes are successively.", "qid": "MSMARCO-00095", "dataset": "MSMARCO"}
+{"query": "what is pecky cypress", "gold": "It refers to timber with holes throughout.", "qid": "MSMARCO-00096", "dataset": "MSMARCO"}
+{"query": "who is lucinda dickey", "gold": "Lucinda Dickey is an American dancer and actress.", "qid": "MSMARCO-00097", "dataset": "MSMARCO"}
+{"query": "coolsculpting ct cost", "gold": "$700 - $2,600.", "qid": "MSMARCO-00098", "dataset": "MSMARCO"}
+{"query": "what is polenta recipe", "gold": "Polenta has its roots in the peasant cuisine of northern Italy. It is made by grinding corn into flour, or meal.", "qid": "MSMARCO-00099", "dataset": "MSMARCO"}
+{"query": "america's fastest shrinking cities", "gold": "America's fastest shrinking cities are Rust Belt, Midwest, West, and Texas.", "qid": "MSMARCO-00100", "dataset": "MSMARCO"}
+{"query": "where did the name prosser originate", "gold": "Welsh.", "qid": "MSMARCO-00101", "dataset": "MSMARCO"}
+{"query": "word there is insufficient memory", "gold": "Most of the time, it\u2019s due to an actual memory issue, but in this specific case, error arises when there are a lot of word temporary files. Delete temporary files from %Temp% folder Go to start->Run, type %Temp% and hit enter.", "qid": "MSMARCO-00102", "dataset": "MSMARCO"}
+{"query": "amount of fiber in refried beans", "gold": "Fat-free Refried Bean have Fiber 7g.", "qid": "MSMARCO-00103", "dataset": "MSMARCO"}
+{"query": "what is pots syndrome", "gold": "One of a group of disorders.", "qid": "MSMARCO-00104", "dataset": "MSMARCO"}
+{"query": "what is the name of your windpipe", "gold": "Trachea", "qid": "MSMARCO-00105", "dataset": "MSMARCO"}
+{"query": "what oil grows the hair", "gold": "Baby oil, Peppermint Oil, Jojoba oil, Garlic oil and Lavender Oil.", "qid": "MSMARCO-00106", "dataset": "MSMARCO"}
+{"query": "what is wind speed knots", "gold": "A knot is a unit of measurement for wind speed. In a station model diagram, the knot is generally the standard unit used to indicate wind speed.", "qid": "MSMARCO-00107", "dataset": "MSMARCO"}
+{"query": "how itunes changed the music industry", "gold": "Since the introduction the iTunes Music Store on April 28, 2003, music sales have plummeted in the United States from $11.8 billion in 2003 to $7.1 billion last year.", "qid": "MSMARCO-00108", "dataset": "MSMARCO"}
+{"query": "can you update windows rt to windows 10", "gold": "No", "qid": "MSMARCO-00109", "dataset": "MSMARCO"}
+{"query": "how old is russell brand", "gold": "40-year", "qid": "MSMARCO-00110", "dataset": "MSMARCO"}
+{"query": "who opposed the american system", "gold": "Democrats opposed the American System.", "qid": "MSMARCO-00111", "dataset": "MSMARCO"}
+{"query": "how is font size measured", "gold": "It is measured in points in Word and in most other apps oriented towards print output where a point has been 1/72 of an inch.", "qid": "MSMARCO-00112", "dataset": "MSMARCO"}
+{"query": "what is the difference between allergies and intolerance?", "gold": "Symptoms of food intolerance are primarily gastrointestinal and include stomach pain, gas cramps or bloating, heartburn, vomiting and diarrhea while symptoms of a food allergy, such as rash or hives, nausea, stomach pain, diarrhea, itchy skin, shortness of breath, chest pain and anaphylaxis.", "qid": "MSMARCO-00113", "dataset": "MSMARCO"}
+{"query": "do Cheerios have any nuts in them", "gold": "No", "qid": "MSMARCO-00114", "dataset": "MSMARCO"}
+{"query": "what they speak in brussels", "gold": "Dutch and French.", "qid": "MSMARCO-00115", "dataset": "MSMARCO"}
+{"query": "who is the director of the miami open?", "gold": "James Blake named tournament director of Miami Open Serena.", "qid": "MSMARCO-00116", "dataset": "MSMARCO"}
+{"query": "who is pk subban dating", "gold": "PK Subban's girlfriend is Adora Nwakwesi.", "qid": "MSMARCO-00117", "dataset": "MSMARCO"}
+{"query": "who did johnny cochran represent", "gold": "Sean Combs", "qid": "MSMARCO-00118", "dataset": "MSMARCO"}
+{"query": "who is the president of society of interventional radiology", "gold": "Charles E Ray Jr is the president of society of interventional radiology.", "qid": "MSMARCO-00119", "dataset": "MSMARCO"}
+{"query": "cleopatra what she was", "gold": "A queen of Egypt, the last of the Macedonian Greek dynasty that ruled Egypt from the time of Alexander the Great's death in 323 BCE to about 30 BCE.", "qid": "MSMARCO-00120", "dataset": "MSMARCO"}
+{"query": "where was parks and recreation filmed", "gold": "Southern California", "qid": "MSMARCO-00121", "dataset": "MSMARCO"}
+{"query": "what is omnichannel", "gold": "Omnichannel is a multichannel approach to sales that seeks to provide the customer with a seamless shopping experience whether the customer is shopping online from a desktop or mobile device, by telephone or in a bricks and mortar store.", "qid": "MSMARCO-00122", "dataset": "MSMARCO"}
+{"query": "why doesn't trench warfare work", "gold": "Because trench warfare brought about many problems for the health of the armies of WWI.", "qid": "MSMARCO-00123", "dataset": "MSMARCO"}
+{"query": "how long does it take for cra to process taxes", "gold": "2 weeks.", "qid": "MSMARCO-00124", "dataset": "MSMARCO"}
+{"query": "when did the song wonderwall come out", "gold": "1995", "qid": "MSMARCO-00125", "dataset": "MSMARCO"}
+{"query": "how many grams per day needed to cure cancer", "gold": "1 gram/ml per day", "qid": "MSMARCO-00126", "dataset": "MSMARCO"}
+{"query": "what was the underground railroad for kids", "gold": "It was a series of safe houses and conductors who helped slaves escape from slavery to the North or to abolitionists in the South.", "qid": "MSMARCO-00127", "dataset": "MSMARCO"}
+{"query": "what is the best battery charger for iphone?", "gold": "Skiva PowerVault Lightning External Battery Pack.", "qid": "MSMARCO-00128", "dataset": "MSMARCO"}
+{"query": "when did michael jordan get drafted to the bulls", "gold": "In 1984", "qid": "MSMARCO-00129", "dataset": "MSMARCO"}
+{"query": "What states can turquoise be found in", "gold": "The Southwest, particularly in Arizona, New Mexico, Nevada, Colorado, and California.", "qid": "MSMARCO-00130", "dataset": "MSMARCO"}
+{"query": "what is the abbreviation for gigabyte", "gold": "GB", "qid": "MSMARCO-00131", "dataset": "MSMARCO"}
+{"query": "who was the stupid with a flare gun?", "gold": "He was a Czech refugee by the name of Zdenek Spicka.", "qid": "MSMARCO-00132", "dataset": "MSMARCO"}
+{"query": "which are sexually transmitted diseases", "gold": "HIV", "qid": "MSMARCO-00133", "dataset": "MSMARCO"}
+{"query": "cost for live in cargiver", "gold": "$700 to $3000 a week.", "qid": "MSMARCO-00134", "dataset": "MSMARCO"}
+{"query": "what should you look for in a amino acids supplement to build muscle", "gold": "Take them before and after a workout, as well as between meals.", "qid": "MSMARCO-00135", "dataset": "MSMARCO"}
+{"query": "what is nostalrius", "gold": "It is an International Vanilla Server based in Europe, France.", "qid": "MSMARCO-00136", "dataset": "MSMARCO"}
+{"query": "do oncologists handle vascular disease", "gold": "Yes, oncologists are able to minimize radiation dose to normal, healthy tissues that was not often possible for patients treated decades ago, and is of particular benefit for collagen vascular disease patients.", "qid": "MSMARCO-00137", "dataset": "MSMARCO"}
+{"query": "what is prescriptive building code", "gold": "A building code that specifies construction requirements according to particular materials and construction methods, rather than to performance criteria.", "qid": "MSMARCO-00138", "dataset": "MSMARCO"}
+{"query": "zinc scrap price per pound", "gold": "$0.97 per pound", "qid": "MSMARCO-00139", "dataset": "MSMARCO"}
+{"query": "what is structural steel protection", "gold": "Fire resistance testing on structural steel members have shown, that by incorporating a proprietary fire protection system, the ability of the structure to resist fire will be greatly enhanced dependent upon the particular system chosen.", "qid": "MSMARCO-00140", "dataset": "MSMARCO"}
+{"query": "what is sagittarius planet", "gold": "The ruling planet for Sagittarius is Jupiter. Jupiter is the planet of faith, positivism and optimism. It rules Sagittarius and is exalted in Cancer.", "qid": "MSMARCO-00141", "dataset": "MSMARCO"}
+{"query": "where is blood primarly composed", "gold": "It is composed primarily of water with small amounts of minerals, salts, ions, nutrients, and proteins in solution.", "qid": "MSMARCO-00142", "dataset": "MSMARCO"}
+{"query": "who is nirav modi and what did he do?", "gold": "Nirav Modi is an Indian born diamond jewellery designer and is the founder of the $1.8 billion Firestar Diamond, he brought desi craftsmanship to the global stage, at the Oscars ceremony red carpet event.", "qid": "MSMARCO-00143", "dataset": "MSMARCO"}
+{"query": "how far is earth from the moon?", "gold": "The average distance between the Earth and the Moon is 382,500 km.", "qid": "MSMARCO-00144", "dataset": "MSMARCO"}
+{"query": "where is willingboro nj", "gold": "Burlington County", "qid": "MSMARCO-00145", "dataset": "MSMARCO"}
+{"query": "dose of biaxin", "gold": "500 mg BIAXIN given twice daily (q12h) or three times daily (q8h).", "qid": "MSMARCO-00146", "dataset": "MSMARCO"}
+{"query": "what's a keder", "gold": "Powerful", "qid": "MSMARCO-00147", "dataset": "MSMARCO"}
+{"query": "dizziness can be a sign of", "gold": "1 Ear infections and conditions, including labyrinthitis and M\u00e9ni\u00e8re's disease, affecting balance. 2 Migraines. 3 Stress. Anxiety. Low blood sugar levels ( hypoglycaemia) that can affect people with diabetes, also called 'hypos'.", "qid": "MSMARCO-00148", "dataset": "MSMARCO"}
+{"query": "how to help an employee leave", "gold": "Guide provides a fairly easy to understand explanation of the how the FMLA works and can be used by employers to help answer the questions of employees.", "qid": "MSMARCO-00149", "dataset": "MSMARCO"}
+{"query": "when was the first issue of the wine advocate", "gold": "The Baltimore-Washington Wine Advocate the first issue was published in 1978.", "qid": "MSMARCO-00150", "dataset": "MSMARCO"}
+{"query": "where is blackstone va", "gold": "Located in the heart of southside Virginia.35 miles southwest of Petersburg and 50 miles south of Richmond.", "qid": "MSMARCO-00151", "dataset": "MSMARCO"}
+{"query": "what is narrow band modulation?", "gold": "A narrow band modulation is a frequency-modulated broadcasting system used primarily for two-way voice communication, typically having a maximum deviation of 15 kilohertz or less.", "qid": "MSMARCO-00152", "dataset": "MSMARCO"}
+{"query": "when was byu university founded", "gold": "1875", "qid": "MSMARCO-00153", "dataset": "MSMARCO"}
+{"query": "cost to serve someone", "gold": "Between $75-$100 to serve subpoena.", "qid": "MSMARCO-00154", "dataset": "MSMARCO"}
+{"query": "what is the average formula in excel", "gold": "If the range A1:A20 contains numbers, the formula =AVERAGE(A1:A20) returns the average of those numbers.", "qid": "MSMARCO-00155", "dataset": "MSMARCO"}
+{"query": "who can propose a canadian copyright tariff", "gold": "The Copyright Act of Canada", "qid": "MSMARCO-00156", "dataset": "MSMARCO"}
+{"query": "who was hello written by", "gold": "Lennon/McCartney", "qid": "MSMARCO-00157", "dataset": "MSMARCO"}
+{"query": "how expensive is an assessment center", "gold": "The charge of the Assessment Center is $2,500/year.", "qid": "MSMARCO-00158", "dataset": "MSMARCO"}
+{"query": "250 grams flour to cups", "gold": "2 Cup", "qid": "MSMARCO-00159", "dataset": "MSMARCO"}
+{"query": "who killed lucy fryer of waco texas", "gold": "Jesse Washington killed Lucy Fryer of Waco, Texas.", "qid": "MSMARCO-00160", "dataset": "MSMARCO"}
+{"query": "how common is rocky mountain spotted fever", "gold": "Fewer than 50 cases are reported annually in New York State.", "qid": "MSMARCO-00161", "dataset": "MSMARCO"}
+{"query": "what is tetrachromatic vision", "gold": "Tetrachromacy is the condition of possessing four independent channels for conveying color information, or possessing four types of cone cells in the eye.", "qid": "MSMARCO-00162", "dataset": "MSMARCO"}
+{"query": "health benefits eating seaweed", "gold": "The health benefits of sea vegetables are not limited to cancer protection. Seaweed is also nature's richest sources of iodine, which as a component of the thyroid hormones thyroxine (T4) and triiodothyronine (T3), - both of which are essential to human life. Seaweed is up to 60 times more potent that its land-based counterparts. They're the best source of minerals. Marine macroalgae such as seaweed contain high amounts of components promised to fight tumors, viruses, and cancers. They even reduce the risk of certain diseases. Seaweed has high amounts of polyphenols. Roasted seaweed is good for your thyroid and gives more vitamin B-12 in your diet. Seaweed provides a source of vitamin K, a fat-soluble nutrient.", "qid": "MSMARCO-00163", "dataset": "MSMARCO"}
+{"query": "do you have to tell anyone your mentally ill", "gold": "No", "qid": "MSMARCO-00164", "dataset": "MSMARCO"}
+{"query": "where do wolf live", "gold": "They live in woods and the forests. Some wolves can also be found in extreme climatic conditions such as the tundra and they can be found in various living conditions, including the mountains, grasslands, and even deserts.", "qid": "MSMARCO-00165", "dataset": "MSMARCO"}
+{"query": "bb&t bank stock price", "gold": "On average, they anticipate BB&T Corporation's stock price to reach $46.93 in the next twelve months.", "qid": "MSMARCO-00166", "dataset": "MSMARCO"}
+{"query": "who was the first person to invent the radio", "gold": "Guglielmo Marconi", "qid": "MSMARCO-00167", "dataset": "MSMARCO"}
+{"query": "how many delegates does hillary need", "gold": "2246", "qid": "MSMARCO-00168", "dataset": "MSMARCO"}
+{"query": "when was ractopamine approved", "gold": "1999", "qid": "MSMARCO-00169", "dataset": "MSMARCO"}
+{"query": "how many pairs of cranial nerves are in the brainstream", "gold": "12", "qid": "MSMARCO-00170", "dataset": "MSMARCO"}
+{"query": "when did abe lincoln become a lawyer", "gold": "1833", "qid": "MSMARCO-00171", "dataset": "MSMARCO"}
+{"query": "who person was the first black congresswoman to be elected from the deep south.", "gold": "The first black congresswoman that was elected from the deep south was Barbara Jordan.", "qid": "MSMARCO-00172", "dataset": "MSMARCO"}
+{"query": "definition of lauds", "gold": "The definition of laud is praise.", "qid": "MSMARCO-00173", "dataset": "MSMARCO"}
+{"query": "what is the measure of each angle of an equiangular", "gold": "An equiangular triangle is a triangle where all three interior angles are equal in measure. Because the interior angles of any triangle always add up to 180\u00b0, each angle is always a third of that, or 60\u00b0.", "qid": "MSMARCO-00174", "dataset": "MSMARCO"}
+{"query": "when was the United nations formed", "gold": "24 October 1945.", "qid": "MSMARCO-00175", "dataset": "MSMARCO"}
+{"query": "define business as a commerce", "gold": "The exchange or interchange of merchandise on a large scale between different places or communities.", "qid": "MSMARCO-00176", "dataset": "MSMARCO"}
+{"query": "who wrote the oxford english dictionary", "gold": "John Simpson", "qid": "MSMARCO-00177", "dataset": "MSMARCO"}
+{"query": "where is emporia, va", "gold": "Emporia is an independent city located within the confines of Greensville County, Virginia, United States.", "qid": "MSMARCO-00178", "dataset": "MSMARCO"}
+{"query": "what position is ford company hiring for", "gold": "Full-time vehicle assembly technicians.", "qid": "MSMARCO-00179", "dataset": "MSMARCO"}
+{"query": "what is whale vomit used for", "gold": "Perfume industry.", "qid": "MSMARCO-00180", "dataset": "MSMARCO"}
+{"query": "what is ural in europe", "gold": "The Urals are a geographical region located around the Ural Mountains, between the East European and West Siberian plains.", "qid": "MSMARCO-00181", "dataset": "MSMARCO"}
+{"query": "different types of christmas trees", "gold": "Deodar Cedar, Cedrus deodara, short, bluish, green needles, fir, pine, spruce, cypress, and.", "qid": "MSMARCO-00182", "dataset": "MSMARCO"}
+{"query": "how long should newborns sleep", "gold": "16 to 17 hours a day.", "qid": "MSMARCO-00183", "dataset": "MSMARCO"}
+{"query": "causes of hypothyroidism in women", "gold": "Deficiency of thyroid hormone, hashimoto\u2019s disease.", "qid": "MSMARCO-00184", "dataset": "MSMARCO"}
+{"query": "what teas to avoid while pregnant", "gold": "Peppermint and thyme", "qid": "MSMARCO-00185", "dataset": "MSMARCO"}
+{"query": "how many degrees celsius do you have to be to be at a normal temperature", "gold": "98.6 degrees Fahrenheit or 37.0 degrees Celsius.", "qid": "MSMARCO-00186", "dataset": "MSMARCO"}
+{"query": "where does drew barrymore live", "gold": "In Culver City, California.", "qid": "MSMARCO-00187", "dataset": "MSMARCO"}
+{"query": "how credits and credit hours work", "gold": "A course is typically measured in terms of number of credit hours. Based on the amount of work load and instruction hours, a course is assigned certain number of credit hours. Basic courses may be like 1 credit or 2 credits in Undergrad. As you take higher level ones in Undergrad, they may be range 3 to 4 credits.", "qid": "MSMARCO-00188", "dataset": "MSMARCO"}
+{"query": "what is papaya leaves good for", "gold": "Used to make medicine.", "qid": "MSMARCO-00189", "dataset": "MSMARCO"}
+{"query": "who was the true founder of confucian religion", "gold": "Chinese K'ung-fu-tzu, Master K'ung.", "qid": "MSMARCO-00190", "dataset": "MSMARCO"}
+{"query": "who was amon g\u00f6th", "gold": "Amon Leopold Goth was an Austrian SS-Hauptsturmfuhrer and the commandant of the Krakow-Plaszow concentration camp in P\u0142aszow in German-occupied Poland for most of the camp's existence during World War II.", "qid": "MSMARCO-00191", "dataset": "MSMARCO"}
+{"query": "who was jackie robin", "gold": "Jack Robinson was an American professional baseball second baseman who became the first African American to play in Major League Baseball in the modern era.", "qid": "MSMARCO-00192", "dataset": "MSMARCO"}
+{"query": "what type of solution hypochlorous acid", "gold": "Hypochlorous acid is a weak acid that can only exist in solution, because it is highly unstable when isolated in a pure form. There are a number of uses for this chemical, most of which take advantage of its strong oxidating properties, which allow it to be used as a bleach and disinfectant, among many other things.o the other comments, obviously toxicity is often related to concentration.", "qid": "MSMARCO-00193", "dataset": "MSMARCO"}
+{"query": "where is gilbertsville, ny", "gold": "in Otsego County, New York, United States.", "qid": "MSMARCO-00194", "dataset": "MSMARCO"}
+{"query": "what tissues does the respiratory membrane consist of", "gold": "The respiratory membrane consists of the epithelial cells of the alveolus, the endothelial cells of the capillary, and the two fused basement membranes of these layers.", "qid": "MSMARCO-00195", "dataset": "MSMARCO"}
+{"query": "who sings simply irresistible", "gold": "Robert Palmer", "qid": "MSMARCO-00196", "dataset": "MSMARCO"}
+{"query": "where is deer springs airport in utah", "gold": "Kanab", "qid": "MSMARCO-00197", "dataset": "MSMARCO"}
+{"query": "what materials are needed to learn to crochet?", "gold": "Beginner yarn and a pair of scissors made for croche.", "qid": "MSMARCO-00198", "dataset": "MSMARCO"}
+{"query": "when was veterans choice established", "gold": "The Veterans Choice Act came sweeping into law with a House vote of 265-160, a Senate vote of 93-3, and was signed into law on the 7 th of August 2014.", "qid": "MSMARCO-00199", "dataset": "MSMARCO"}
+{"query": "what is surf", "gold": "Surf means the swell of the sea that breaks upon the shore.", "qid": "MSMARCO-00200", "dataset": "MSMARCO"}
+{"query": "how much ram is good", "gold": "A good amount of RAM is about 512Mb.", "qid": "MSMARCO-00201", "dataset": "MSMARCO"}
+{"query": "who is rey mysterio", "gold": "Rey Mysterio was a professional wrestler for WCW.", "qid": "MSMARCO-00202", "dataset": "MSMARCO"}
+{"query": "who sang horse with no name", "gold": "Band America", "qid": "MSMARCO-00203", "dataset": "MSMARCO"}
+{"query": "average construction superintendent salary in los angeles webcor", "gold": "Construction Superintendent Los Angeles, CA average salary is $74,784, median salary is $65,000 with a salary range from $18,726 to $1,768,000.", "qid": "MSMARCO-00204", "dataset": "MSMARCO"}
+{"query": "how much does rowan university cost for in state", "gold": "About $25,522.", "qid": "MSMARCO-00205", "dataset": "MSMARCO"}
+{"query": "who is josh keaton", "gold": "An American actor, voice actor, singer, and record producer.", "qid": "MSMARCO-00206", "dataset": "MSMARCO"}
+{"query": "what is the difference between a paleo and atkins diet", "gold": "Atkins is a diet for weight loss, while Paleo is a diet for health. Atkins is focused primarily on macronutrient ratios, while Paleo is focused primarily on food quality.", "qid": "MSMARCO-00207", "dataset": "MSMARCO"}
+{"query": "what's the day of tomorrow", "gold": "It is science Fiction with a capital F.", "qid": "MSMARCO-00208", "dataset": "MSMARCO"}
+{"query": "who led the battle against malaria", "gold": "Jhpiego led the battle against malaria.", "qid": "MSMARCO-00209", "dataset": "MSMARCO"}
+{"query": "what is the daily amount of sodium per day", "gold": "Minimal 180 to 500 milligrams of sodium per day.", "qid": "MSMARCO-00210", "dataset": "MSMARCO"}
+{"query": "how much protein i need to build muscle", "gold": "To build muscle you must consume up to 1.0g of protein per pound of bodyweight.", "qid": "MSMARCO-00211", "dataset": "MSMARCO"}
+{"query": "when was the first telescope invented", "gold": "1609", "qid": "MSMARCO-00212", "dataset": "MSMARCO"}
+{"query": "where in rhodes was the colossus located", "gold": "In the city of Rhodes, on the Greek island.", "qid": "MSMARCO-00213", "dataset": "MSMARCO"}
+{"query": "why did the australian gold rush start", "gold": "The Australian gold rush was a large number of gold discoveries in Australia. Thousands of people came to Australia in the hope of finding a lot of gold and becoming rich.", "qid": "MSMARCO-00214", "dataset": "MSMARCO"}
+{"query": "what is lodine", "gold": "Lodine is in a class of drugs called nonsteroidal anti inflammatory drugs and it is used to reduce pain inflammation swelling and stiffness caused by several conditions", "qid": "MSMARCO-00215", "dataset": "MSMARCO"}
+{"query": "what is tramadol made from", "gold": "A man-made (synthetic) analgesic (pain reliever). Its exact mechanism of action is unknown but similar morphine.", "qid": "MSMARCO-00216", "dataset": "MSMARCO"}
+{"query": "what time does dollar general open", "gold": "8 am to 9 pm", "qid": "MSMARCO-00217", "dataset": "MSMARCO"}
+{"query": "who succeeded benito juarez maximilian i", "gold": "Benito Pablo Ju\u00e1rez Garc\u00eda was a Mexican lawyer and liberal politician of Zapotec origin from Oaxaca.", "qid": "MSMARCO-00218", "dataset": "MSMARCO"}
+{"query": "how many times a day does the average teen text?", "gold": "60 times", "qid": "MSMARCO-00219", "dataset": "MSMARCO"}
+{"query": "who is sebb argo", "gold": "Sebb Argo is a Mexican social media personality. He is a popular YouTube personality named Sebastian whose channel is filled with reaction videos, challenge videos and vlogs.", "qid": "MSMARCO-00220", "dataset": "MSMARCO"}
+{"query": "general ge appliance phone number", "gold": "1-800-626-2005", "qid": "MSMARCO-00221", "dataset": "MSMARCO"}
+{"query": "diabetic how many carbs do i need a day", "gold": "30-60 grams at meals and 15-30 grams at snacks.", "qid": "MSMARCO-00222", "dataset": "MSMARCO"}
+{"query": "who is simon", "gold": "An English reality television judge and producer, entrepreneur and philanthropist.", "qid": "MSMARCO-00223", "dataset": "MSMARCO"}
+{"query": "what zone is rochester ny planting", "gold": "Zones 6a and 6b.", "qid": "MSMARCO-00224", "dataset": "MSMARCO"}
+{"query": "which numbers on bottom of check are the account number", "gold": "Routing Number", "qid": "MSMARCO-00225", "dataset": "MSMARCO"}
+{"query": "what is the definition of a milstrip?", "gold": "Military standard requisitioning and issue procedures.", "qid": "MSMARCO-00226", "dataset": "MSMARCO"}
+{"query": "what is the political party of president george washington", "gold": "He was not affiliated with any political party.", "qid": "MSMARCO-00227", "dataset": "MSMARCO"}
+{"query": "when is tax free weekend for san antonio, tx", "gold": "August prior to the start of the school year.", "qid": "MSMARCO-00228", "dataset": "MSMARCO"}
+{"query": "where is copper found in body", "gold": "Osteoporosis,Joint pain,Lowered immunity.", "qid": "MSMARCO-00229", "dataset": "MSMARCO"}
+{"query": "what is kiwi a good source of", "gold": "Vitamin E.", "qid": "MSMARCO-00230", "dataset": "MSMARCO"}
+{"query": "when do ny primary polls open", "gold": "During general elections, polls are open from 6 a.m. to 9 p.m. During primary elections, polls are open from 6 a.m. to 9 p.m.", "qid": "MSMARCO-00231", "dataset": "MSMARCO"}
+{"query": "what is the official language in germany", "gold": "German", "qid": "MSMARCO-00232", "dataset": "MSMARCO"}
+{"query": "who own the patent to fidget spinner", "gold": "Catherine Hettinger owns the patent on the fidget spinner.", "qid": "MSMARCO-00233", "dataset": "MSMARCO"}
+{"query": "what is the worldwide incidence of schizophrenia", "gold": "3 per 10,000 people.", "qid": "MSMARCO-00234", "dataset": "MSMARCO"}
+{"query": "what is the name of the airport in charlotte north carolina?", "gold": "The name of the airport in charlotte north carolina is Airways/American Airlines service to Charlotte Douglas International Airport.", "qid": "MSMARCO-00235", "dataset": "MSMARCO"}
+{"query": "why was nelson mandela so important", "gold": "Because he went to prison just for what he believed in and he stood up for what he believed in.", "qid": "MSMARCO-00236", "dataset": "MSMARCO"}
+{"query": "what is the airport in kauai hi", "gold": "Lihue", "qid": "MSMARCO-00237", "dataset": "MSMARCO"}
+{"query": "what year are the baby boomers considered", "gold": "1964", "qid": "MSMARCO-00238", "dataset": "MSMARCO"}
+{"query": "who owns harrah's entertainment", "gold": "Harrah's entertainment is owned by VICI Properties and operated by Caesars Entertainment Corporation.", "qid": "MSMARCO-00239", "dataset": "MSMARCO"}
+{"query": "define ordinary resolution", "gold": "A resolution that requires a majority vote of members present at a general meeting of a company. special resolution.", "qid": "MSMARCO-00240", "dataset": "MSMARCO"}
+{"query": "definition of leech", "gold": "Leech means any one of numerous genera and species of annulose worms, belonging to the order Hirudinea, or Bdelloidea, esp.", "qid": "MSMARCO-00241", "dataset": "MSMARCO"}
+{"query": "who played snape in harry potter", "gold": "Alec Hopkins,Alan Rickman", "qid": "MSMARCO-00242", "dataset": "MSMARCO"}
+{"query": "where is pepper pike ohio", "gold": "In Cuyahoga County, Ohio, United States", "qid": "MSMARCO-00243", "dataset": "MSMARCO"}
+{"query": "what's a ekg", "gold": "A diagnostic tool that is routinely used to assess the electrical and muscular functions of the heart.", "qid": "MSMARCO-00244", "dataset": "MSMARCO"}
+{"query": "who was lefty brown", "gold": "Bill Pullman was Lefty Brown.", "qid": "MSMARCO-00245", "dataset": "MSMARCO"}
+{"query": "how old is chris hemsworth", "gold": "Chris Hemsworth is 34 year old.", "qid": "MSMARCO-00246", "dataset": "MSMARCO"}
+{"query": "what is the annual salary of a radiographer", "gold": "$43,000", "qid": "MSMARCO-00247", "dataset": "MSMARCO"}
+{"query": "what is the purpose of serotonin", "gold": "It is popularly thought to be a contributor to feelings of well-being and happiness.", "qid": "MSMARCO-00248", "dataset": "MSMARCO"}
+{"query": "who is mk ultra", "gold": "MK Ultra is an old program, scientific experimentation on human beings continue to this day and we are the test subjects.", "qid": "MSMARCO-00249", "dataset": "MSMARCO"}
+{"query": "what kind of doctor to go to for back pain", "gold": "Neurologist and Rheumatologist", "qid": "MSMARCO-00250", "dataset": "MSMARCO"}
+{"query": "how long does it take to get a disability hearing answer back", "gold": "523 days.", "qid": "MSMARCO-00251", "dataset": "MSMARCO"}
+{"query": "when did palouse ridge golf club open", "gold": "Aug 29", "qid": "MSMARCO-00252", "dataset": "MSMARCO"}
+{"query": "what were the braves in milwaukee", "gold": "Atlanta", "qid": "MSMARCO-00253", "dataset": "MSMARCO"}
+{"query": "how much does it cost to run a nuclear energy plant", "gold": "$10-12 billion for a 1500-1600 MW plant.", "qid": "MSMARCO-00254", "dataset": "MSMARCO"}
+{"query": "who started save the children", "gold": "Save the Children started by Eglantyne Jebb.", "qid": "MSMARCO-00255", "dataset": "MSMARCO"}
+{"query": "what is medi tax withholding", "gold": "Medi is the Medicare tax withheld for contributions to the social insurance system better known as Medicare insurance.", "qid": "MSMARCO-00256", "dataset": "MSMARCO"}
+{"query": "what lake does does niagara falls go to", "gold": "Lake Ontario.", "qid": "MSMARCO-00257", "dataset": "MSMARCO"}
+{"query": "what is the final electron acceptor", "gold": "In aerobic respiration the final electron acceptor is oxygen, whereas in anaerobic respiration the final electron acceptor is a molecule other than oxygen.", "qid": "MSMARCO-00258", "dataset": "MSMARCO"}
+{"query": "what is melanin", "gold": "The pigment that gives human skin, hair, and eyes their color.", "qid": "MSMARCO-00259", "dataset": "MSMARCO"}
+{"query": "what is the function number in subtotal", "gold": "1 to 11", "qid": "MSMARCO-00260", "dataset": "MSMARCO"}
+{"query": "why southern states have higher poverty rates", "gold": "Because the nation\u2019s urban areas increased from 70% to 81% over that 50-year period. And much of the South still struggles with poverty. Of the 16 Southern states, only Maryland and Delaware had a poverty rate below the national average in 1960.", "qid": "MSMARCO-00261", "dataset": "MSMARCO"}
+{"query": "what would cause brake lights stay on", "gold": "Brake fluid is low", "qid": "MSMARCO-00262", "dataset": "MSMARCO"}
+{"query": "which organelle stores most of the calcium in skeletal muscle cells?", "gold": "Sarcoplasmic reticulum", "qid": "MSMARCO-00263", "dataset": "MSMARCO"}
+{"query": "what is rabbit tobacco", "gold": "Rabbit Tobacco is a member of the Aster family. It is a common herb of old fields, pastures, and roadsides.", "qid": "MSMARCO-00264", "dataset": "MSMARCO"}
+{"query": "what is mollescum", "gold": "It is a skin infection that is caused by a virus.", "qid": "MSMARCO-00265", "dataset": "MSMARCO"}
+{"query": "what is the definition of diary", "gold": "The definition of a diary is a datebook or journal where you record events, emotions, thoughts or feelings.", "qid": "MSMARCO-00266", "dataset": "MSMARCO"}
+{"query": "who is the president during the era of good feelings", "gold": "James Monroe was the president during the Era of Good feelings.", "qid": "MSMARCO-00267", "dataset": "MSMARCO"}
+{"query": "why was chief keef on house arrest", "gold": "Chief Keef was arrested for allegedly smoking marijuana at a hotel.", "qid": "MSMARCO-00268", "dataset": "MSMARCO"}
+{"query": "where are temperature receptors located", "gold": "Core temperature receptors are located in the hypothalamus while superficial receptors are in the skin.", "qid": "MSMARCO-00269", "dataset": "MSMARCO"}
+{"query": "what is ti allowance on a lease", "gold": "It is referred to as construction allowance, is money provided by the landlord to be used exclusively for the basic interior construction of the space being leased.", "qid": "MSMARCO-00270", "dataset": "MSMARCO"}
+{"query": "what is the statute of limitations on debt for hoa dues in arizona", "gold": "HOAs and Condos in Arizona have a foreclosure right. That statute of limitation is to foreclose on the HOA's lien for unpaid assessments is three years.", "qid": "MSMARCO-00271", "dataset": "MSMARCO"}
+{"query": "what is yoyogi park", "gold": "One of Tokyo 's largest city parks, featuring wide lawns, ponds and forested areas.", "qid": "MSMARCO-00272", "dataset": "MSMARCO"}
+{"query": "who was kwame nkrumah?", "gold": "Kwame Nkrumah was the first Prime Minister and then first President of Ghana.", "qid": "MSMARCO-00273", "dataset": "MSMARCO"}
+{"query": "what three parts of the computer give output", "gold": "Monitors, printers and speakers of the computer give output.", "qid": "MSMARCO-00274", "dataset": "MSMARCO"}
+{"query": "what is the new procedure that reverses blood flow for carotid artery surgery", "gold": "The TCAR procedure", "qid": "MSMARCO-00275", "dataset": "MSMARCO"}
+{"query": "who owns milk and honey", "gold": "Milk and Honey is owned by Chopped Champion, Sammy Davis.", "qid": "MSMARCO-00276", "dataset": "MSMARCO"}
+{"query": "where is conestoga township", "gold": "Lancaster County", "qid": "MSMARCO-00277", "dataset": "MSMARCO"}
+{"query": "would a superdry jacket fit a 12 year old", "gold": "XLsized for man and XS sized for woman", "qid": "MSMARCO-00278", "dataset": "MSMARCO"}
+{"query": "what is mtrj fiber connector", "gold": "MT-RJ is a fiber-optic Cable Connector that is very popular for small form factor devices due to its small size.Housing two fibers and mating together with locating pins on the plug, the MT-RJ comes from the MT connector, which can contain up to 12 fibers.", "qid": "MSMARCO-00279", "dataset": "MSMARCO"}
+{"query": "aishwarya rai father", "gold": "Krishnaraj Rai", "qid": "MSMARCO-00280", "dataset": "MSMARCO"}
+{"query": "where is sicily located", "gold": "Italy", "qid": "MSMARCO-00281", "dataset": "MSMARCO"}
+{"query": "what is resource monitor", "gold": "A tool that you can use to monitor the usage of CPU, hard disk, network, and memory in real time.", "qid": "MSMARCO-00282", "dataset": "MSMARCO"}
+{"query": "definition mortgagee", "gold": "An entity that lends money to a borrower for the purpose of purchasing a piece of real property.", "qid": "MSMARCO-00283", "dataset": "MSMARCO"}
+{"query": "2015 chevy tahoe gross weight", "gold": "7300 lbs.", "qid": "MSMARCO-00284", "dataset": "MSMARCO"}
+{"query": "who is the dean at dalhousie university", "gold": "Dr. David Anderson became Dalhousie University\u2019s thirteenth dean of medicine on July 1, 2015.", "qid": "MSMARCO-00285", "dataset": "MSMARCO"}
+{"query": "how much is 1 inch", "gold": "1 inch is equal to 25.4 millimeters.", "qid": "MSMARCO-00286", "dataset": "MSMARCO"}
+{"query": "who sang your so vain", "gold": "Carly Simon", "qid": "MSMARCO-00287", "dataset": "MSMARCO"}
+{"query": "what is repetition?", "gold": "It is something happening again and again and again.", "qid": "MSMARCO-00288", "dataset": "MSMARCO"}
+{"query": "do waterproof bandages work", "gold": "Yes, Nexcare Waterproof bandages are perfect for treating minor wounds such as cuts, scrapes and blisters.", "qid": "MSMARCO-00289", "dataset": "MSMARCO"}
+{"query": "what is the med flunixin used for", "gold": "Flunixin can be used as an analgesic and for its anti-inflammatory properties in rabbits.", "qid": "MSMARCO-00290", "dataset": "MSMARCO"}
+{"query": "who murdered stella salmon in santa rosa county fl", "gold": "Arthur Dennis Rutherford murdered Stella Salmon in Santa Rosa County, Florida.", "qid": "MSMARCO-00291", "dataset": "MSMARCO"}
+{"query": "when did mt. fuji last erupt", "gold": "Decemeber 16, 1707", "qid": "MSMARCO-00292", "dataset": "MSMARCO"}
+{"query": "which describes a role of enzymes", "gold": "Protein describes a role of enzymes.", "qid": "MSMARCO-00293", "dataset": "MSMARCO"}
+{"query": "who is the founder of walmart", "gold": "Sam Walton and Bud Walton are the founder of walmart.", "qid": "MSMARCO-00294", "dataset": "MSMARCO"}
+{"query": "who is ursula?", "gold": "A villain who first appeared in the 1989 Disney film, The Little Mermaid as the main antagonist.", "qid": "MSMARCO-00295", "dataset": "MSMARCO"}
+{"query": "benefits for children with spina bifida", "gold": "Social Security Disability (SSD) benefits are available for children and adults who suffer from Spina Bifida, provides monetary allowances, vocational training and rehabilitation and VA-financed health care benefits to certain Korea and Vietnam Veterans' birth children who have been diagnosed with spina bifida.", "qid": "MSMARCO-00296", "dataset": "MSMARCO"}
+{"query": "what is lymph nodes", "gold": "They are small, bean-shaped glands throughout the body.", "qid": "MSMARCO-00297", "dataset": "MSMARCO"}
+{"query": "what is the geography of the nile river", "gold": "It is located in northwest Africa and flows through many different African countries including Egypt, Sudan, Ethiopia, Uganda, and Burundi.", "qid": "MSMARCO-00298", "dataset": "MSMARCO"}
+{"query": "why do bananas cause upset stomach", "gold": "There is a protein in bananas called chitinase that can cause an allergy reaction.", "qid": "MSMARCO-00299", "dataset": "MSMARCO"}
+{"query": "what is the most common protistan intestinal parasite in the united states", "gold": "Pin worm", "qid": "MSMARCO-00300", "dataset": "MSMARCO"}
+{"query": "how long can cooked lamb stay in the fridge", "gold": "3 to 5 days", "qid": "MSMARCO-00301", "dataset": "MSMARCO"}
+{"query": "febuxostat cost", "gold": "$160", "qid": "MSMARCO-00302", "dataset": "MSMARCO"}
+{"query": "how much will i make under unemployment", "gold": "$200", "qid": "MSMARCO-00303", "dataset": "MSMARCO"}
+{"query": "what is warts on skin", "gold": "A wart is a skin growth caused by some types of the virus called the human papillomavirus (HPV).", "qid": "MSMARCO-00304", "dataset": "MSMARCO"}
+{"query": "what is king of prussia zip code", "gold": "The zip code of King of Prussia is 19406.", "qid": "MSMARCO-00305", "dataset": "MSMARCO"}
+{"query": "what was the immediate effect on the chernobyl area", "gold": "The immediate effects of Chernobyl area is as follows: The explosion at the power station and subsequent fires inside the remains of the reactor resulted in the development and dispersal of a radioactive cloud which drifted not only over Russia, Belarus, and Ukraine, but also over most of Europe and as far as Canada.", "qid": "MSMARCO-00306", "dataset": "MSMARCO"}
+{"query": "which branch can borrow money", "gold": "Legislative Branch and Executive Branch", "qid": "MSMARCO-00307", "dataset": "MSMARCO"}
+{"query": "who played liesl in the sound of music", "gold": "Charmian Carr", "qid": "MSMARCO-00308", "dataset": "MSMARCO"}
+{"query": "who owns talbots stores", "gold": "Sycamore Partners, the owner of teen retailer Hot Topic and the Jones Group.", "qid": "MSMARCO-00309", "dataset": "MSMARCO"}
+{"query": "how many people died during wwi", "gold": "385,000", "qid": "MSMARCO-00310", "dataset": "MSMARCO"}
+{"query": "what is yellow.rock sugar used for", "gold": "Yellow rock sugar(Chinese rock sugar) is used in traditional Chinese remedies.", "qid": "MSMARCO-00311", "dataset": "MSMARCO"}
+{"query": "which is an example of the executive branch imposing a check on the legislative power to make laws", "gold": "Vetoing laws", "qid": "MSMARCO-00312", "dataset": "MSMARCO"}
+{"query": "what is the file size eb and pb", "gold": "An exabyte is a large unit of computer data storage, two to the sixtieth power bytes. PetaByte is a measure of memory or storage capacity and is 2 to the 50th power bytes in size One PetaByte is roughly 100,000 GigaBytes.", "qid": "MSMARCO-00313", "dataset": "MSMARCO"}
+{"query": "codetwo sync for icloud crack", "gold": "Bridging the gap between Outlook data and Apple iCloud information is CodeTwo Sync for iCloud, a practical application for data synchronization.", "qid": "MSMARCO-00314", "dataset": "MSMARCO"}
+{"query": "what time is in rome italy", "gold": "Its time is 6 hours ahead of EST.So when it is it will be.", "qid": "MSMARCO-00315", "dataset": "MSMARCO"}
+{"query": "what is the zip code of eureka ca", "gold": "95501", "qid": "MSMARCO-00316", "dataset": "MSMARCO"}
+{"query": "what is lemon law for cars", "gold": "It must have a substantial defect covered by the warranty that occurred within a certain period of time or number of miles after you bought the car, and not be fixed after a reasonable number of repair attempts.", "qid": "MSMARCO-00317", "dataset": "MSMARCO"}
+{"query": "what is jar test", "gold": "A method of simulating a full-scale water treatment process, providing sys-tem operators a reasonable idea of the way atreatment chemical will behave and operatewith a particular type of raw water.", "qid": "MSMARCO-00318", "dataset": "MSMARCO"}
+{"query": "who is sati", "gold": "Sati or suttee is the ancient Indian and Nepalese practice of burning a widow on her husband's funeral pyre or burying her alive in his grave.", "qid": "MSMARCO-00319", "dataset": "MSMARCO"}
+{"query": "what is marketing diversification", "gold": "Diversification is a form of growth marketing strategy for a company. It seeks to increase profitability through greater sales volume obtained from new products and new markets.", "qid": "MSMARCO-00320", "dataset": "MSMARCO"}
+{"query": "will o'neill salary", "gold": "Average salary of $575,000", "qid": "MSMARCO-00321", "dataset": "MSMARCO"}
+{"query": "who is the ambassador andrew j.young", "gold": "He was born March 12, 1932, in New Orleans, Louisiana,In 1970, Andrew Young ran as a Democrat for Congress from Georgia, but was unsuccessful. He later was re-elected in 1974 and in 1976.", "qid": "MSMARCO-00322", "dataset": "MSMARCO"}
+{"query": "what soul food", "gold": "A variety of cuisine that comes from the traditional dishes of the Southern United States and originated from the food prepared and consumed by enslaved Africans and freedmen.", "qid": "MSMARCO-00323", "dataset": "MSMARCO"}
+{"query": "who is tony abbott", "gold": "Tony Abbott is the worst PM in Australian History.", "qid": "MSMARCO-00324", "dataset": "MSMARCO"}
+{"query": "what position is cammy in street fighter", "gold": "Top British special agent.", "qid": "MSMARCO-00325", "dataset": "MSMARCO"}
+{"query": "how far is calgary canada toronto canada.", "gold": "The Toronto, Canada is 1,688 miles far from Calgary, Canada.", "qid": "MSMARCO-00326", "dataset": "MSMARCO"}
+{"query": "where are maoris descended from", "gold": "New Zealand.", "qid": "MSMARCO-00327", "dataset": "MSMARCO"}
+{"query": "which is produced by translation", "gold": "Transcription from DNA.", "qid": "MSMARCO-00328", "dataset": "MSMARCO"}
+{"query": "when is rozerem expected to go generic", "gold": "Generic ramelteon is expected to become available as early as 2017, when ramelteon's patent expires.", "qid": "MSMARCO-00329", "dataset": "MSMARCO"}
+{"query": "who is gen john burgoyne", "gold": "General John Burgoyne was a British commander.", "qid": "MSMARCO-00330", "dataset": "MSMARCO"}
+{"query": "what temperature does bermuda seed germinate", "gold": "Soil temperature is between 75 and 95 degrees Fahrenheit and the air temperature is between 75 and 95 F.", "qid": "MSMARCO-00331", "dataset": "MSMARCO"}
+{"query": "when does the new season of longmire", "gold": "On September 2016", "qid": "MSMARCO-00332", "dataset": "MSMARCO"}
+{"query": "where can a karst landscapes found", "gold": "Soluble rocks such as limestone, dolomite, and gypsum.", "qid": "MSMARCO-00333", "dataset": "MSMARCO"}
+{"query": "where is harrington maine town landing", "gold": "In the southern section of Washington County.", "qid": "MSMARCO-00334", "dataset": "MSMARCO"}
+{"query": "what is limited service restaurant", "gold": "Limited-service restaurants can be further classified into fast food or quick service, fast-casual restaurants, pizza restaurants, and cafes.", "qid": "MSMARCO-00335", "dataset": "MSMARCO"}
+{"query": "how many meters in a furlong", "gold": "201.168 metres", "qid": "MSMARCO-00336", "dataset": "MSMARCO"}
+{"query": "who is the mother of cortana?", "gold": "Dr. Halsey is the mother of Cortana.", "qid": "MSMARCO-00337", "dataset": "MSMARCO"}
+{"query": "cost to leave car at orlando airport", "gold": "It costs $1 per 20 minutes up to a maximum daily rate of $17.", "qid": "MSMARCO-00338", "dataset": "MSMARCO"}
+{"query": "definition of woobie", "gold": "Any object, typically a blanket, garment or stuffed animal that is used simply for its comforting characteristics.", "qid": "MSMARCO-00339", "dataset": "MSMARCO"}
+{"query": "when will irs e filing resume", "gold": "The IRS e-filed will resume in January 2017, or in accordance with the start-up of the filing season for 2016 returns.", "qid": "MSMARCO-00340", "dataset": "MSMARCO"}
+{"query": "where is nipigon", "gold": "In Ontario.", "qid": "MSMARCO-00341", "dataset": "MSMARCO"}
+{"query": "where is felandaris in dragon age inquisition", "gold": "Found in Suledin Keep and Pools of the Sun in Emprise du Lion and in Arbor Wilds. Found at Judicael's Crossing in Emprise du Lion. SE of the Tower of Bone. Found in front of the ruins that are just North of the Crystal Cascade landmark in Emprise du Lion.", "qid": "MSMARCO-00342", "dataset": "MSMARCO"}
+{"query": "who is the highest paid nfl player", "gold": "Aaron Rodger", "qid": "MSMARCO-00343", "dataset": "MSMARCO"}
+{"query": "who wrote the skaters waltz", "gold": "\u00c9mile Waldteufel", "qid": "MSMARCO-00344", "dataset": "MSMARCO"}
+{"query": "who is zebulon pike", "gold": "Zebulon Montgomery Pike was an American brigadier general and explorer for whom Pikes Peak in Colorado is named.", "qid": "MSMARCO-00345", "dataset": "MSMARCO"}
+{"query": "who sings never say never", "gold": "Justin Bieber", "qid": "MSMARCO-00346", "dataset": "MSMARCO"}
+{"query": "who was cosmas indicopleustes ?", "gold": "A Greek traveller and geographer of the first half of the sixth century.", "qid": "MSMARCO-00347", "dataset": "MSMARCO"}
+{"query": "are the only places where water and materials are exchanged between the blood and tissue fluids", "gold": "Capillaries", "qid": "MSMARCO-00348", "dataset": "MSMARCO"}
+{"query": "what time does morning sickness start", "gold": "From 6 weeks - around two weeks after you miss your period.", "qid": "MSMARCO-00349", "dataset": "MSMARCO"}
+{"query": "employee work day hours", "gold": "8:30 a.m. to 5:00 p.m., Monday through Friday, including a daily non-compensable lunch period of 30 minutes.", "qid": "MSMARCO-00350", "dataset": "MSMARCO"}
+{"query": "where is uniontown alabama", "gold": "Perry County, Alabama, in the United States of America", "qid": "MSMARCO-00351", "dataset": "MSMARCO"}
+{"query": "who maintains texas farm to market roads", "gold": "Farm to Market Roads in Texas are owned and maintained by the Texas Department of Transportation.", "qid": "MSMARCO-00352", "dataset": "MSMARCO"}
+{"query": "who is the actress in roman j israel esq?", "gold": "The actress in Roman J. Israel, Esq are Carmen Ejogo, Lynda Gravatt, Amanda Warren, Hugo Armstrong, Sam Gilroy, Tony Plana, DeRon Horton and Amari Cheatom.", "qid": "MSMARCO-00353", "dataset": "MSMARCO"}
+{"query": "what is sap xi/pi?", "gold": "A component of the NetWeaver product group used to facilitate the exchange of information among a company's internal software and systems and those of external parties.", "qid": "MSMARCO-00354", "dataset": "MSMARCO"}
+{"query": "what is staffhub", "gold": "StaffHub is an app designed to enable staff workers and their managers to manage time, communicate with their teams, and share content.", "qid": "MSMARCO-00355", "dataset": "MSMARCO"}
+{"query": "what is meant by animal?", "gold": "A living thing that has (or can develop) the ability to act or function independently.", "qid": "MSMARCO-00356", "dataset": "MSMARCO"}
+{"query": "where exactly is italy located", "gold": "Italy is a country located on the Italian Peninsula on in Southern Europe.", "qid": "MSMARCO-00357", "dataset": "MSMARCO"}
+{"query": "how many congressional delegations are republican", "gold": "435", "qid": "MSMARCO-00358", "dataset": "MSMARCO"}
+{"query": "when heartbeat starts in pregnancy", "gold": "Around 6 weeks.", "qid": "MSMARCO-00359", "dataset": "MSMARCO"}
+{"query": "who prayed to jobu in major league", "gold": "Pedro Cerrano prayed to Jobu in major league.", "qid": "MSMARCO-00360", "dataset": "MSMARCO"}
+{"query": "what is the backbone of dna molecule made of", "gold": "A. cytosine. B. nitrogenous bases. C. hydrogen bonding. D. sugar and phosphate. Weegy: D. sugar and phosphate.", "qid": "MSMARCO-00361", "dataset": "MSMARCO"}
+{"query": "what law firm did john lindsay work for before he was mayor of new y", "gold": "John worked in a New York City law firm before he was mayor of New York.", "qid": "MSMARCO-00362", "dataset": "MSMARCO"}
+{"query": "what is tirosint used for", "gold": "It is prescribed for treating an underactive thyroid, certain types of thyroid cancer, and goiters.", "qid": "MSMARCO-00363", "dataset": "MSMARCO"}
+{"query": "definition of mingle", "gold": "To mingle is defined as to mix together or participate with others at a party or social event.", "qid": "MSMARCO-00364", "dataset": "MSMARCO"}
+{"query": "what is the current number of immigration", "gold": "12 million.", "qid": "MSMARCO-00365", "dataset": "MSMARCO"}
+{"query": "which hotels are within walking distance of gatwick north terminal", "gold": "Hampton by Hilton Gatwick and the Hotel Sofitel boast.", "qid": "MSMARCO-00366", "dataset": "MSMARCO"}
+{"query": "how soon can i seal grout", "gold": "It is best to wait at least 72 hours before mopping a newly grouted floor to make sure the grout has a chance to cure completely.", "qid": "MSMARCO-00367", "dataset": "MSMARCO"}
+{"query": "when is the bath and body semi annual sale", "gold": "December-January and another would be in June-July of same year.", "qid": "MSMARCO-00368", "dataset": "MSMARCO"}
+{"query": "where is ojai california located", "gold": "Located in the Ojai Valley, it is northwest of Los Angeles and east of Santa Barbara.", "qid": "MSMARCO-00369", "dataset": "MSMARCO"}
+{"query": "definition of belastbar", "gold": "Belastbar mean resilient, reliable, loadable.", "qid": "MSMARCO-00370", "dataset": "MSMARCO"}
+{"query": "what to eat in slo", "gold": "Rock fish ceviche and wonderful Cuban panini.", "qid": "MSMARCO-00371", "dataset": "MSMARCO"}
+{"query": "why do dna strands join toether", "gold": "DNA molecule, single nucleotides join to make chains that come together as matched pairs and form long double strands.", "qid": "MSMARCO-00372", "dataset": "MSMARCO"}
+{"query": "what is rb marketing", "gold": "It is a web marketing agency specializing in content marketing and inbound marketing.", "qid": "MSMARCO-00373", "dataset": "MSMARCO"}
+{"query": "what movies had rocket men", "gold": "King of the Rocket Men and Dark Knight Rises.", "qid": "MSMARCO-00374", "dataset": "MSMARCO"}
+{"query": "which is the part of the skin you can see", "gold": "Epidermis", "qid": "MSMARCO-00375", "dataset": "MSMARCO"}
+{"query": "where does tobacco come from", "gold": "America", "qid": "MSMARCO-00376", "dataset": "MSMARCO"}
+{"query": "what is the going salary for market risk analyst", "gold": "$42,951 to $92,573", "qid": "MSMARCO-00377", "dataset": "MSMARCO"}
+{"query": "how to heal black and blue bruises", "gold": "Apply a cold compress of ice, Wrap a few ice cubes in a washcloth and apply it to the skin for 15 minutes out of every hour,Never apply ice directly to the skin.", "qid": "MSMARCO-00378", "dataset": "MSMARCO"}
+{"query": "who is titan cronus", "gold": "Cronus was the son of Uranus (Heaven) and Gaea (Earth), being the youngest of the 12 Titans.", "qid": "MSMARCO-00379", "dataset": "MSMARCO"}
+{"query": "what is the meaning of pak", "gold": "Holy/ pure/ clean", "qid": "MSMARCO-00380", "dataset": "MSMARCO"}
+{"query": "what types of chemical is ADH", "gold": "A relatively small (peptide) molecule that is released by the pituitary gland at the base of the brain after being made nearby (in the hypothalamus).", "qid": "MSMARCO-00381", "dataset": "MSMARCO"}
+{"query": "what is the enemy's name from the first zelda", "gold": "Gels", "qid": "MSMARCO-00382", "dataset": "MSMARCO"}
+{"query": "where is jacksonville afb in arkansas", "gold": "Pulaski County, Arkansas, United States.", "qid": "MSMARCO-00383", "dataset": "MSMARCO"}
+{"query": "what usually protects your body from illness", "gold": "The immune system,innate, or nonspecific, immunity,vitamins C and E,Specific types of immunoglobulin.", "qid": "MSMARCO-00384", "dataset": "MSMARCO"}
+{"query": "what to see in nyc in 3 days", "gold": "Stroll around Times Square, site of the annual New Year's ball drop and frequent performances by pop stars. Stop by Rockefeller Center to visit the Radio City Music Hall, get a glimpse of the Today show, ice skate or shop.", "qid": "MSMARCO-00385", "dataset": "MSMARCO"}
+{"query": "why is the sound not working on my asus laptop", "gold": "because of my ASUS laptop speaker is two weeks old. the sound didn't work after I put my laptop in 'sleep' mode. even by using the headphone the sound also didn't work.", "qid": "MSMARCO-00386", "dataset": "MSMARCO"}
+{"query": "where is reba from", "gold": "McAlester", "qid": "MSMARCO-00387", "dataset": "MSMARCO"}
+{"query": "who played opie on mayberry", "gold": "Ron Howard", "qid": "MSMARCO-00388", "dataset": "MSMARCO"}
+{"query": "which part of the brain is responsible for personality", "gold": "The frontal lobes", "qid": "MSMARCO-00389", "dataset": "MSMARCO"}
+{"query": "what is losartan used for?", "gold": "The treatment of hypertension.", "qid": "MSMARCO-00390", "dataset": "MSMARCO"}
+{"query": "what means skank?", "gold": "A slang term for a promiscuous person.", "qid": "MSMARCO-00391", "dataset": "MSMARCO"}
+{"query": "who is katherine johnson?", "gold": "Katherine Johnson is one such brilliant mathematician.", "qid": "MSMARCO-00392", "dataset": "MSMARCO"}
+{"query": "who is papyrus", "gold": "Papyrus is first known to have been used in ancient Egypt, as the Cyperus papyrus plant was a wetland sedge that was once abundant in the Nile Delta of Egypt.", "qid": "MSMARCO-00393", "dataset": "MSMARCO"}
+{"query": "what percentage of precipitation that falls on land becomes runoff?", "gold": "33 percentage of precipitation that falls on land becomes runoff into streams and rivers and is returned to the oceans.", "qid": "MSMARCO-00394", "dataset": "MSMARCO"}
+{"query": "why is the first amendment controversial", "gold": "The first amendment is so controversial because it speaks about many different things that are important to people. It gives people the freedom of speech, press, religion and assembly.", "qid": "MSMARCO-00395", "dataset": "MSMARCO"}
+{"query": "who is the very first donut company", "gold": "Hanson Gregory", "qid": "MSMARCO-00396", "dataset": "MSMARCO"}
+{"query": "where is llandovery on map", "gold": "Is situated in Carmarthenshire-Sir Gaerfyrddin,Wales, United Kingdom,its geographical coordinates are 51\u00b0 59' 0 North, 3\u00b0 47' 0 West.", "qid": "MSMARCO-00397", "dataset": "MSMARCO"}
+{"query": "what tool to use to straighten jewelry wire", "gold": "Nylon soft jaw pliers.", "qid": "MSMARCO-00398", "dataset": "MSMARCO"}
+{"query": "what steps required to obtain certificate of occupancy", "gold": "Register your business with the Town of Gilbert. This business registration form must accompany the Certificate of Occupancy or Tenant Improvement permit application.", "qid": "MSMARCO-00399", "dataset": "MSMARCO"}
+{"query": "what is monax", "gold": "An open platform for developers and devops to build, ship, and run blockchain-based applications for business ecosystems.", "qid": "MSMARCO-00400", "dataset": "MSMARCO"}
+{"query": "what is tilt of pluto", "gold": "119.5 degrees.", "qid": "MSMARCO-00401", "dataset": "MSMARCO"}
+{"query": "what is the temperature in cairo, egypt in march", "gold": "In Cairo,Egypt, the average temperature in March is very mild at 16.9 \u00b0C or 62.42 \u00b0F. Afternoons can be fairly hot with average high temperatures reaching 24 \u00b0C or 75.2 \u00b0F. Overnight temperatures are generally quite mild with an average low of 12 \u00b0C or 53.6 \u00b0F. The mean daily temperature variation/ range in March is 12 \u00b0C or 21.6 \u00b0F.", "qid": "MSMARCO-00402", "dataset": "MSMARCO"}
+{"query": "who was william champney", "gold": "William Champney was an Anglican priest and author in the 19th century.", "qid": "MSMARCO-00403", "dataset": "MSMARCO"}
+{"query": "what is the author of wonder", "gold": "R.J. Palacio", "qid": "MSMARCO-00404", "dataset": "MSMARCO"}
+{"query": "what part of the lung do metastasis usually appear", "gold": "Lung metastasis is cancer that started in another part of the body and spread to the lungs.", "qid": "MSMARCO-00405", "dataset": "MSMARCO"}
+{"query": "where is barker reservoir", "gold": "Located in the state of Colorado, United States.", "qid": "MSMARCO-00406", "dataset": "MSMARCO"}
+{"query": "how much is ric flair worth", "gold": "$5 million.", "qid": "MSMARCO-00407", "dataset": "MSMARCO"}
+{"query": "what is the difference between aromatic and benzene", "gold": "Benzene is a molecule (C6 H6) that has six carbons and six hydrogens in a conjugated system (alternating double bonds). The conjugated double bonds make Benzene aromatic.Aromatic describes conjugated ring systems (rings that feature a double bond for every other Carbon-Carbon bond such as seen with Benzene)", "qid": "MSMARCO-00408", "dataset": "MSMARCO"}
+{"query": "www.what causes flesh eating bacteria?", "gold": "There is a range of bacteria which can cause flesh-eating disease: Streptococcus pyogenes, Staphylococcus aureus, Vibrio vulnificus, Clostridium perfringens and many others.", "qid": "MSMARCO-00409", "dataset": "MSMARCO"}
+{"query": "what is the most popular baby name", "gold": "Emma, Olivia, Sophia, Noah, Liam and Mason.", "qid": "MSMARCO-00410", "dataset": "MSMARCO"}
+{"query": "what would cause mucus in my stool", "gold": "When stool has visible mucus, it can be a sign of bacterial infections, anal fissures, a bowel obstruction, or Crohn's disease.", "qid": "MSMARCO-00411", "dataset": "MSMARCO"}
+{"query": "what states make up the sunbelt region", "gold": "Florida, Georgia, South Carolina, Alabama, Mississippi, Louisiana, Texas, New Mexico, Arizona, Nevada, and California.", "qid": "MSMARCO-00412", "dataset": "MSMARCO"}
+{"query": "wheel of fortune wardrobe malfunction", "gold": "Vanna White", "qid": "MSMARCO-00413", "dataset": "MSMARCO"}
+{"query": "ecog performance status", "gold": "The ECOG performance status is a scale used to assess how a patient's disease is progressing, assess how the disease affects the daily living abilities of the patient, and determine appropriate treatment and prognosis.", "qid": "MSMARCO-00414", "dataset": "MSMARCO"}
+{"query": "what states require surveys", "gold": "MA", "qid": "MSMARCO-00415", "dataset": "MSMARCO"}
+{"query": "who played col dearing", "gold": "Erin Gray", "qid": "MSMARCO-00416", "dataset": "MSMARCO"}
+{"query": "how long does chicken last in fridge", "gold": "Uncooked poultry is safe in the refrigerator for 1-2 days, and safe in the freezer for 9 months (for pieces) and up to 12 months for whole chickens or turkey.Cooked poultry is safe refrigerated for 3-4 days.", "qid": "MSMARCO-00417", "dataset": "MSMARCO"}
+{"query": "when did holy roman emoire recommence", "gold": "6 August 1806", "qid": "MSMARCO-00418", "dataset": "MSMARCO"}
+{"query": "who is pretty ricky", "gold": "Pretty Ricky is an American R and B and hip hop group.", "qid": "MSMARCO-00419", "dataset": "MSMARCO"}
+{"query": "what is texmex", "gold": "Tex-Mex (from Texan and Mexican) is a term describing a fusion of American cuisine and Mexican cuisine.", "qid": "MSMARCO-00420", "dataset": "MSMARCO"}
+{"query": "who is philip the second", "gold": "Philip II was the 18th king of Macedonia.", "qid": "MSMARCO-00421", "dataset": "MSMARCO"}
+{"query": "who is la. sen. john kennedy", "gold": "John Neely Kennedy is an American politician who is the junior United States Senator from Louisiana, serving since 2017.", "qid": "MSMARCO-00422", "dataset": "MSMARCO"}
+{"query": "what is the basic rules of probability theory", "gold": "When two events, A and B, are mutually exclusive, the probability that A or B will occur is the sum of the probability of each event, P(A or B) = P(A) + P(B).When two events, A and B, are non-mutually exclusive, there is some overlap between these events.", "qid": "MSMARCO-00423", "dataset": "MSMARCO"}
+{"query": "where is most digestion and absorption of nutrients take place", "gold": "Small intestine", "qid": "MSMARCO-00424", "dataset": "MSMARCO"}
+{"query": "what is sick leave non-vested", "gold": "The employee has no entitlement to cash settlement of unused leave.", "qid": "MSMARCO-00425", "dataset": "MSMARCO"}
+{"query": "what is the distance between jackson tennessee in dayton ohio", "gold": "There are 614.31 miles from Dayton, Ohio to Jackson, Tennessee in southwest direction and 734 miles by car, following the I-55 route.", "qid": "MSMARCO-00426", "dataset": "MSMARCO"}
+{"query": "what is oblique twist", "gold": "A dynamic standing abs exercise for torturing the obliques.", "qid": "MSMARCO-00427", "dataset": "MSMARCO"}
+{"query": "definition of health according to who", "gold": "Health is a state of complete physical, mental, and social well-being and not merely the absence of disease or infirmity.", "qid": "MSMARCO-00428", "dataset": "MSMARCO"}
+{"query": "biggest crowds in gwinnett county", "gold": "The biggest crowds in gwinnett is 28,393 estimated in 2005.", "qid": "MSMARCO-00429", "dataset": "MSMARCO"}
+{"query": "black mamba explain for kids", "gold": "It is the world\u2019s fastest land snake and also one of the world\u2019s most deadliest snakes and it is the longest venomous snake found in Africa.", "qid": "MSMARCO-00430", "dataset": "MSMARCO"}
+{"query": "what was the moon recorded by", "gold": "Peggy Lee.", "qid": "MSMARCO-00431", "dataset": "MSMARCO"}
+{"query": "why samsung is better than apple", "gold": "Because apple always has like almost the same styles of phones and apple can't even make phones themselves.", "qid": "MSMARCO-00432", "dataset": "MSMARCO"}
+{"query": "what temperature to cook steak in oven", "gold": "40 to 45 minutes", "qid": "MSMARCO-00433", "dataset": "MSMARCO"}
+{"query": "who was patrick bronte", "gold": "Patrick Bronte was an Irish priest and author who spent most of his adult life in England.", "qid": "MSMARCO-00434", "dataset": "MSMARCO"}
+{"query": "what is lichen scolosis", "gold": "It is a long-term skin disorder that most commonly affects the skin around the genitals.", "qid": "MSMARCO-00435", "dataset": "MSMARCO"}
+{"query": "who was laila ali married to before", "gold": "Laila Ali was married to Curtis Conway and John McClain before.", "qid": "MSMARCO-00436", "dataset": "MSMARCO"}
+{"query": "when did the nyiragongo volcano first erupt", "gold": "The nyiragongo volcano first erupted on 17th January 2002.", "qid": "MSMARCO-00437", "dataset": "MSMARCO"}
+{"query": "what is the hesi", "gold": "It is a practice exam, intended on preparing nursing students to eventually take the NCLEX.", "qid": "MSMARCO-00438", "dataset": "MSMARCO"}
+{"query": "where was pom klementieff born?aaaaaaaaaaaaaaaaaaaaaaaaaaaaa", "gold": "Pom klementieff was born in Quebec City, Quebec, Canada.", "qid": "MSMARCO-00439", "dataset": "MSMARCO"}
+{"query": "why do fingers itch", "gold": "Finger itch: Finger itch is an unpleasant sensation that evokes the desire or reflex to scratch. See detailed information below for a list of 17 causes of Finger itch, Symptom Checker, including diseases and drug side effect causes.", "qid": "MSMARCO-00440", "dataset": "MSMARCO"}
+{"query": "when is climate controlled storage necessary", "gold": "Unit\u2019s indoor temperature is kept between 60 and 78 degrees year-round and maintains a consistent humidity level.", "qid": "MSMARCO-00441", "dataset": "MSMARCO"}
+{"query": "what kind of guitar does slash play", "gold": "Gibson Les Pauls", "qid": "MSMARCO-00442", "dataset": "MSMARCO"}
+{"query": "why is indiana's motto Crossroads of America", "gold": "The Crossroads of America is a nickname given to the state of Indiana as it,and,more specifically,the city of Indianapolis is the hub for several major Interstate highways that criss-cross the state,connecting Hoosiers to the rest of the United States.", "qid": "MSMARCO-00443", "dataset": "MSMARCO"}
+{"query": "what is the cost for dna test at ancestry", "gold": "The cost for dna test at ancestry is from \u20b913,000 to \u20b920,000.", "qid": "MSMARCO-00444", "dataset": "MSMARCO"}
+{"query": "what is the zip code for eufaula, al", "gold": "36027", "qid": "MSMARCO-00445", "dataset": "MSMARCO"}
+{"query": "who is vertiv?", "gold": "A global provider of mission critical equipment for vital applications in data centers., communication networks, and commercial and industrial environments.", "qid": "MSMARCO-00446", "dataset": "MSMARCO"}
+{"query": "when did mozambique gain independence", "gold": "June 25, 1975", "qid": "MSMARCO-00447", "dataset": "MSMARCO"}
+{"query": "how do you test for alcohol in urine", "gold": "The EtG Urine Alcohol Test will detect ingestion of Ethyl Alcohol within the past 80 hours. EtG is a metabolite of Ethyl Alcohol, and can be detected for longer periods of time after ingestion than simply testing for Ethyl Alcohol.", "qid": "MSMARCO-00448", "dataset": "MSMARCO"}
+{"query": "what is microsoft whiteboard", "gold": "Microsoft Whiteboard for Windows 10 will enable teachers and students to share ideas. Microsoft Whiteboard, that's being created for the education market. It will be designed to give students and teachers a way to create and collaborate on ideas.", "qid": "MSMARCO-00449", "dataset": "MSMARCO"}
+{"query": "what is telangiectatic nevi", "gold": "Small areas of discoloration on a newborn caused by the way certain blood vessels form.", "qid": "MSMARCO-00450", "dataset": "MSMARCO"}
+{"query": "why was daylight savings started", "gold": "Daylight saving time was primarily started in the United States for the sake of conserving energy.", "qid": "MSMARCO-00451", "dataset": "MSMARCO"}
+{"query": "what is japanese knotweed?", "gold": "It is a large, herbaceous perennial plant of the family Polygonaceae, native to East Asia in Japan, China and Korea.", "qid": "MSMARCO-00452", "dataset": "MSMARCO"}
+{"query": "where is nkandla", "gold": "KwaZulu-Natal, South Africa which is located in the continent/region of Africa.", "qid": "MSMARCO-00453", "dataset": "MSMARCO"}
+{"query": "who is adam apollo", "gold": "He is founder of several education and technology based companies and organizations, including Access Granted, Inc., Sanctified Solutions, LLC, Visionary Arts Foundation, and Superluminal Systems.", "qid": "MSMARCO-00454", "dataset": "MSMARCO"}
+{"query": "who makes the safran engine", "gold": "GE, U.S.A. and Safran Aircraft Engines, France makes Safran engines.", "qid": "MSMARCO-00455", "dataset": "MSMARCO"}
+{"query": "what is the average cost of fixing and front declawing of a cat", "gold": "Conventional methods usually costs between $100 and $250 and laser method usually costs between $250 and $450.", "qid": "MSMARCO-00456", "dataset": "MSMARCO"}
+{"query": "who sings on pink floyd great gig in the sky", "gold": "The Great Gig in the Sky is the album by the English rock band Pink Floyd and sings by Clare Torry.", "qid": "MSMARCO-00457", "dataset": "MSMARCO"}
+{"query": "benefits of co sleeping with your baby", "gold": "The benefit of co sleeping with your baby is baby is at a lower risk of sudden infant death syndrome when they sleep in the same room as parents.", "qid": "MSMARCO-00458", "dataset": "MSMARCO"}
+{"query": "what is wilcom truesizer", "gold": "Wilcom Truesizer is a program that allows people to read, view, modify and even convert embroidery files. Review. Programs allow us to do a number of really cool things.", "qid": "MSMARCO-00459", "dataset": "MSMARCO"}
+{"query": "what is osmanthus", "gold": "A genus of flowering, evergreen trees and shrubs in the family Oleaceae.", "qid": "MSMARCO-00460", "dataset": "MSMARCO"}
+{"query": "average temperature of tundra", "gold": "-28 degrees Celsius.", "qid": "MSMARCO-00461", "dataset": "MSMARCO"}
+{"query": "where is lakeside school located", "gold": "In Hampshire, England.", "qid": "MSMARCO-00462", "dataset": "MSMARCO"}
+{"query": "what is smegma", "gold": "It is a whitish substance that may be present on the genitalia. It is caused by the shedding of skin cells and it is harmless, although it may become problematic if it is allowed to build up.", "qid": "MSMARCO-00463", "dataset": "MSMARCO"}
+{"query": "who was the vice president of the confederate states", "gold": "Alexander Hamilton Stephens", "qid": "MSMARCO-00464", "dataset": "MSMARCO"}
+{"query": "what is nrm in finance", "gold": "NRM Financial is a Los Angeles-based Mortgage Broker specializing in FHA Loans, Debt Consolidation, Reverse Mortgage and refinance services in California.", "qid": "MSMARCO-00465", "dataset": "MSMARCO"}
+{"query": "what is taxa", "gold": "(1) Any group or rank in a biological classification into which related organisms are classified. (2) A taxonomic unit in the biological system of classification of organisms.", "qid": "MSMARCO-00466", "dataset": "MSMARCO"}
+{"query": "when a switch is closed that means", "gold": "The circuit is closed and the Light Bulb turns On.", "qid": "MSMARCO-00467", "dataset": "MSMARCO"}
+{"query": "how to celebrate ratha saptami", "gold": "On auspicious day of ratha saptami, women put rangoli with a representation of Sun God with 7 horses in a chariot.", "qid": "MSMARCO-00468", "dataset": "MSMARCO"}
+{"query": "how long to keep tax papers", "gold": "3 years from the date you filed your original return or 2 years from the date you paid the tax, 7 years if you file a claim for a loss from worthless securities or bad debt deduction.", "qid": "MSMARCO-00469", "dataset": "MSMARCO"}
